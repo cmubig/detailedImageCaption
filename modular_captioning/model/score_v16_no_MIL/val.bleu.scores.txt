@@ -1,0 +1,4140 @@
+Epoch 1
+Learning rate: 0.000500
+Bleu_1: 0.738789
+Bleu_2: 0.545597
+Bleu_3: 0.391663
+Bleu_4: 0.278231
+ROUGE_L: 0.565258
+METEOR: 0.247592
+CIDEr: 0.877764
+SPICE: 0.174340
+obj: 34.826, attri: 6.197, rela: 5.229, col: 1.064, cnt: 3.547, size: 4.035
+
+Epoch 2
+Learning rate: 0.000500
+Bleu_1: 0.734787
+Bleu_2: 0.543666
+Bleu_3: 0.391249
+Bleu_4: 0.279447
+ROUGE_L: 0.567359
+METEOR: 0.251510
+CIDEr: 0.894188
+SPICE: 0.177764
+obj: 35.454, attri: 6.327, rela: 5.334, col: 2.239, cnt: 5.413, size: 3.942
+
+Epoch 2
+Learning rate: 0.000500
+Bleu_1: 0.738436
+Bleu_2: 0.546134
+Bleu_3: 0.394173
+Bleu_4: 0.282056
+ROUGE_L: 0.566335
+METEOR: 0.247572
+CIDEr: 0.891921
+SPICE: 0.173770
+obj: 34.644, attri: 6.329, rela: 5.146, col: 2.048, cnt: 4.895, size: 4.319
+
+Epoch 2
+Learning rate: 0.000500
+Bleu_1: 0.743391
+Bleu_2: 0.551607
+Bleu_3: 0.398366
+Bleu_4: 0.283871
+ROUGE_L: 0.568445
+METEOR: 0.249694
+CIDEr: 0.899400
+SPICE: 0.176315
+obj: 35.074, attri: 6.319, rela: 5.455, col: 1.620, cnt: 4.243, size: 3.329
+
+Epoch 2
+Learning rate: 0.000500
+Bleu_1: 0.741240
+Bleu_2: 0.549293
+Bleu_3: 0.396593
+Bleu_4: 0.283888
+ROUGE_L: 0.569131
+METEOR: 0.251662
+CIDEr: 0.908477
+SPICE: 0.179075
+obj: 35.381, attri: 6.634, rela: 5.606, col: 3.005, cnt: 3.413, size: 2.770
+
+Epoch 2
+Learning rate: 0.000500
+Bleu_1: 0.746089
+Bleu_2: 0.554399
+Bleu_3: 0.400852
+Bleu_4: 0.286462
+ROUGE_L: 0.569563
+METEOR: 0.252018
+CIDEr: 0.910982
+SPICE: 0.179363
+obj: 35.517, attri: 6.742, rela: 5.491, col: 2.130, cnt: 4.421, size: 3.527
+
+Epoch 3
+Learning rate: 0.000500
+Bleu_1: 0.741256
+Bleu_2: 0.549060
+Bleu_3: 0.397527
+Bleu_4: 0.285765
+ROUGE_L: 0.569236
+METEOR: 0.252957
+CIDEr: 0.915293
+SPICE: 0.180484
+obj: 35.792, attri: 6.405, rela: 5.660, col: 1.729, cnt: 1.704, size: 4.311
+
+Epoch 3
+Learning rate: 0.000500
+Bleu_1: 0.744880
+Bleu_2: 0.555246
+Bleu_3: 0.402051
+Bleu_4: 0.288368
+ROUGE_L: 0.572801
+METEOR: 0.254760
+CIDEr: 0.926699
+SPICE: 0.179633
+obj: 35.881, attri: 6.306, rela: 5.352, col: 2.878, cnt: 1.161, size: 4.938
+
+Epoch 3
+Learning rate: 0.000500
+Bleu_1: 0.748620
+Bleu_2: 0.557922
+Bleu_3: 0.404278
+Bleu_4: 0.290435
+ROUGE_L: 0.573854
+METEOR: 0.255081
+CIDEr: 0.934808
+SPICE: 0.178844
+obj: 35.523, attri: 6.513, rela: 5.371, col: 2.851, cnt: 3.132, size: 3.565
+
+Epoch 3
+Learning rate: 0.000500
+Bleu_1: 0.754231
+Bleu_2: 0.563372
+Bleu_3: 0.409196
+Bleu_4: 0.294876
+ROUGE_L: 0.575730
+METEOR: 0.255557
+CIDEr: 0.943052
+SPICE: 0.181249
+obj: 35.947, attri: 6.265, rela: 5.661, col: 2.080, cnt: 3.561, size: 4.242
+
+Epoch 3
+Learning rate: 0.000500
+Bleu_1: 0.746812
+Bleu_2: 0.554535
+Bleu_3: 0.400901
+Bleu_4: 0.286562
+ROUGE_L: 0.571094
+METEOR: 0.254857
+CIDEr: 0.931151
+SPICE: 0.179437
+obj: 35.909, attri: 6.070, rela: 5.336, col: 2.411, cnt: 3.399, size: 2.869
+
+Epoch 4
+Learning rate: 0.000500
+Bleu_1: 0.751546
+Bleu_2: 0.561866
+Bleu_3: 0.409375
+Bleu_4: 0.296078
+ROUGE_L: 0.574958
+METEOR: 0.256100
+CIDEr: 0.942174
+SPICE: 0.182945
+obj: 35.943, attri: 6.617, rela: 5.860, col: 3.332, cnt: 2.539, size: 2.290
+
+Epoch 4
+Learning rate: 0.000500
+Bleu_1: 0.753343
+Bleu_2: 0.563096
+Bleu_3: 0.410468
+Bleu_4: 0.296427
+ROUGE_L: 0.575717
+METEOR: 0.258323
+CIDEr: 0.955615
+SPICE: 0.186120
+obj: 36.418, attri: 7.267, rela: 5.744, col: 3.857, cnt: 4.436, size: 4.746
+
+Epoch 4
+Learning rate: 0.000500
+Bleu_1: 0.746615
+Bleu_2: 0.558049
+Bleu_3: 0.407019
+Bleu_4: 0.293837
+ROUGE_L: 0.573966
+METEOR: 0.257304
+CIDEr: 0.950572
+SPICE: 0.184104
+obj: 36.162, attri: 6.929, rela: 5.812, col: 3.084, cnt: 5.641, size: 2.952
+
+Epoch 4
+Learning rate: 0.000500
+Bleu_1: 0.755523
+Bleu_2: 0.566323
+Bleu_3: 0.413867
+Bleu_4: 0.300168
+ROUGE_L: 0.577178
+METEOR: 0.258446
+CIDEr: 0.960363
+SPICE: 0.185106
+obj: 36.334, attri: 7.031, rela: 5.836, col: 4.017, cnt: 5.390, size: 4.017
+
+Epoch 4
+Learning rate: 0.000500
+Bleu_1: 0.758136
+Bleu_2: 0.568353
+Bleu_3: 0.414773
+Bleu_4: 0.299731
+ROUGE_L: 0.579462
+METEOR: 0.259954
+CIDEr: 0.969750
+SPICE: 0.187557
+obj: 36.717, attri: 7.142, rela: 5.986, col: 3.980, cnt: 4.969, size: 4.003
+
+Epoch 5
+Learning rate: 0.000500
+Bleu_1: 0.755446
+Bleu_2: 0.565809
+Bleu_3: 0.412543
+Bleu_4: 0.298099
+ROUGE_L: 0.578634
+METEOR: 0.259454
+CIDEr: 0.965962
+SPICE: 0.185855
+obj: 36.396, attri: 7.105, rela: 5.676, col: 3.628, cnt: 5.399, size: 3.665
+
+Epoch 5
+Learning rate: 0.000500
+Bleu_1: 0.754863
+Bleu_2: 0.567430
+Bleu_3: 0.415209
+Bleu_4: 0.301665
+ROUGE_L: 0.579688
+METEOR: 0.260473
+CIDEr: 0.970802
+SPICE: 0.187951
+obj: 36.604, attri: 7.432, rela: 5.962, col: 4.284, cnt: 5.058, size: 5.027
+
+Epoch 5
+Learning rate: 0.000500
+Bleu_1: 0.753232
+Bleu_2: 0.565893
+Bleu_3: 0.414199
+Bleu_4: 0.300803
+ROUGE_L: 0.578457
+METEOR: 0.259771
+CIDEr: 0.965858
+SPICE: 0.186146
+obj: 36.496, attri: 6.972, rela: 5.928, col: 3.301, cnt: 4.797, size: 4.592
+
+Epoch 5
+Learning rate: 0.000500
+Bleu_1: 0.754685
+Bleu_2: 0.566627
+Bleu_3: 0.415854
+Bleu_4: 0.302557
+ROUGE_L: 0.578504
+METEOR: 0.260111
+CIDEr: 0.973146
+SPICE: 0.186712
+obj: 36.420, attri: 7.087, rela: 5.999, col: 4.686, cnt: 5.073, size: 3.430
+
+Epoch 5
+Learning rate: 0.000500
+Bleu_1: 0.752696
+Bleu_2: 0.566866
+Bleu_3: 0.417168
+Bleu_4: 0.305583
+ROUGE_L: 0.581269
+METEOR: 0.262193
+CIDEr: 0.987259
+SPICE: 0.188635
+obj: 36.613, attri: 7.430, rela: 6.045, col: 3.785, cnt: 7.316, size: 3.985
+
+Epoch 6
+Learning rate: 0.000500
+Bleu_1: 0.754597
+Bleu_2: 0.567282
+Bleu_3: 0.416329
+Bleu_4: 0.303188
+ROUGE_L: 0.580097
+METEOR: 0.261501
+CIDEr: 0.980797
+SPICE: 0.187649
+obj: 36.647, attri: 7.149, rela: 5.952, col: 3.635, cnt: 4.954, size: 2.966
+
+Epoch 6
+Learning rate: 0.000500
+Bleu_1: 0.753389
+Bleu_2: 0.562556
+Bleu_3: 0.410538
+Bleu_4: 0.296433
+ROUGE_L: 0.578101
+METEOR: 0.259644
+CIDEr: 0.969775
+SPICE: 0.186398
+obj: 36.389, attri: 7.169, rela: 5.979, col: 4.524, cnt: 5.250, size: 4.029
+
+Epoch 6
+Learning rate: 0.000500
+Bleu_1: 0.755160
+Bleu_2: 0.567714
+Bleu_3: 0.417549
+Bleu_4: 0.304371
+ROUGE_L: 0.581633
+METEOR: 0.262975
+CIDEr: 0.990774
+SPICE: 0.190224
+obj: 37.029, attri: 7.303, rela: 6.226, col: 4.211, cnt: 5.573, size: 4.098
+
+Epoch 6
+Learning rate: 0.000500
+Bleu_1: 0.754833
+Bleu_2: 0.567918
+Bleu_3: 0.417127
+Bleu_4: 0.304903
+ROUGE_L: 0.580769
+METEOR: 0.262097
+CIDEr: 0.982624
+SPICE: 0.188871
+obj: 36.711, attri: 7.157, rela: 6.154, col: 4.712, cnt: 7.013, size: 4.066
+
+Epoch 6
+Learning rate: 0.000500
+Bleu_1: 0.756084
+Bleu_2: 0.567741
+Bleu_3: 0.416890
+Bleu_4: 0.304320
+ROUGE_L: 0.580322
+METEOR: 0.260603
+CIDEr: 0.978354
+SPICE: 0.187723
+obj: 36.519, attri: 7.123, rela: 6.085, col: 4.352, cnt: 6.901, size: 4.438
+
+Epoch 7
+Learning rate: 0.000500
+Bleu_1: 0.755476
+Bleu_2: 0.568999
+Bleu_3: 0.417988
+Bleu_4: 0.305542
+ROUGE_L: 0.580287
+METEOR: 0.262279
+CIDEr: 0.986102
+SPICE: 0.189281
+obj: 36.782, attri: 7.273, rela: 6.167, col: 4.614, cnt: 5.991, size: 3.238
+
+Epoch 7
+Learning rate: 0.000500
+Bleu_1: 0.752013
+Bleu_2: 0.564397
+Bleu_3: 0.413623
+Bleu_4: 0.302057
+ROUGE_L: 0.580454
+METEOR: 0.262201
+CIDEr: 0.985831
+SPICE: 0.189244
+obj: 36.676, attri: 7.339, rela: 6.227, col: 5.030, cnt: 8.827, size: 3.760
+
+Epoch 7
+Learning rate: 0.000500
+Bleu_1: 0.756033
+Bleu_2: 0.570711
+Bleu_3: 0.421066
+Bleu_4: 0.308193
+ROUGE_L: 0.583297
+METEOR: 0.262257
+CIDEr: 0.991904
+SPICE: 0.189231
+obj: 36.726, attri: 7.204, rela: 6.325, col: 4.863, cnt: 5.028, size: 3.966
+
+Epoch 7
+Learning rate: 0.000500
+Bleu_1: 0.758283
+Bleu_2: 0.572640
+Bleu_3: 0.422121
+Bleu_4: 0.309391
+ROUGE_L: 0.583593
+METEOR: 0.264595
+CIDEr: 1.001987
+SPICE: 0.190404
+obj: 36.937, attri: 7.417, rela: 6.294, col: 4.276, cnt: 7.197, size: 4.118
+
+Epoch 7
+Learning rate: 0.000500
+Bleu_1: 0.755147
+Bleu_2: 0.568593
+Bleu_3: 0.417271
+Bleu_4: 0.304906
+ROUGE_L: 0.579894
+METEOR: 0.261931
+CIDEr: 0.985635
+SPICE: 0.189934
+obj: 36.883, attri: 7.300, rela: 6.295, col: 4.577, cnt: 6.664, size: 4.177
+
+Epoch 8
+Learning rate: 0.000500
+Bleu_1: 0.755485
+Bleu_2: 0.569981
+Bleu_3: 0.419018
+Bleu_4: 0.306246
+ROUGE_L: 0.580419
+METEOR: 0.263054
+CIDEr: 0.997081
+SPICE: 0.191889
+obj: 37.190, attri: 7.481, rela: 6.251, col: 4.170, cnt: 8.530, size: 3.598
+
+Epoch 8
+Learning rate: 0.000500
+Bleu_1: 0.758845
+Bleu_2: 0.571602
+Bleu_3: 0.420070
+Bleu_4: 0.306644
+ROUGE_L: 0.580905
+METEOR: 0.262324
+CIDEr: 0.994943
+SPICE: 0.188976
+obj: 36.727, attri: 7.450, rela: 6.084, col: 5.335, cnt: 8.679, size: 3.602
+
+Epoch 8
+Learning rate: 0.000500
+Bleu_1: 0.754410
+Bleu_2: 0.568560
+Bleu_3: 0.418410
+Bleu_4: 0.306121
+ROUGE_L: 0.580631
+METEOR: 0.263106
+CIDEr: 0.999944
+SPICE: 0.190765
+obj: 36.883, attri: 7.633, rela: 6.187, col: 5.216, cnt: 7.221, size: 3.148
+
+Epoch 8
+Learning rate: 0.000500
+Bleu_1: 0.758914
+Bleu_2: 0.573559
+Bleu_3: 0.424178
+Bleu_4: 0.311649
+ROUGE_L: 0.581645
+METEOR: 0.263020
+CIDEr: 0.998575
+SPICE: 0.191582
+obj: 37.114, attri: 7.281, rela: 6.482, col: 4.542, cnt: 8.047, size: 3.679
+
+Epoch 8
+Learning rate: 0.000500
+Bleu_1: 0.759275
+Bleu_2: 0.573527
+Bleu_3: 0.422530
+Bleu_4: 0.308506
+ROUGE_L: 0.584084
+METEOR: 0.263239
+CIDEr: 0.995918
+SPICE: 0.191404
+obj: 37.080, attri: 7.574, rela: 6.206, col: 5.335, cnt: 7.354, size: 3.037
+
+Epoch 9
+Learning rate: 0.000500
+Bleu_1: 0.752027
+Bleu_2: 0.566772
+Bleu_3: 0.417346
+Bleu_4: 0.305952
+ROUGE_L: 0.580164
+METEOR: 0.262952
+CIDEr: 0.994180
+SPICE: 0.190206
+obj: 36.927, attri: 7.353, rela: 6.205, col: 4.910, cnt: 7.967, size: 4.056
+
+Epoch 9
+Learning rate: 0.000500
+Bleu_1: 0.757283
+Bleu_2: 0.570984
+Bleu_3: 0.420312
+Bleu_4: 0.308177
+ROUGE_L: 0.581922
+METEOR: 0.263798
+CIDEr: 1.004533
+SPICE: 0.192725
+obj: 37.052, attri: 7.807, rela: 6.449, col: 5.284, cnt: 9.345, size: 3.549
+
+Epoch 9
+Learning rate: 0.000500
+Bleu_1: 0.758542
+Bleu_2: 0.572816
+Bleu_3: 0.422296
+Bleu_4: 0.308648
+ROUGE_L: 0.584201
+METEOR: 0.265433
+CIDEr: 1.001937
+SPICE: 0.193948
+obj: 37.361, attri: 7.957, rela: 6.371, col: 4.842, cnt: 8.530, size: 3.648
+
+Epoch 9
+Learning rate: 0.000500
+Bleu_1: 0.760545
+Bleu_2: 0.576021
+Bleu_3: 0.424582
+Bleu_4: 0.310615
+ROUGE_L: 0.584591
+METEOR: 0.265460
+CIDEr: 1.012668
+SPICE: 0.193031
+obj: 37.380, attri: 7.537, rela: 6.381, col: 4.272, cnt: 8.382, size: 3.456
+
+Epoch 9
+Learning rate: 0.000500
+Bleu_1: 0.760482
+Bleu_2: 0.575402
+Bleu_3: 0.425592
+Bleu_4: 0.313398
+ROUGE_L: 0.586394
+METEOR: 0.265956
+CIDEr: 1.011481
+SPICE: 0.192722
+obj: 37.254, attri: 7.415, rela: 6.439, col: 5.003, cnt: 7.760, size: 3.541
+
+Epoch 10
+Learning rate: 0.000500
+Bleu_1: 0.757372
+Bleu_2: 0.570896
+Bleu_3: 0.420154
+Bleu_4: 0.307288
+ROUGE_L: 0.581522
+METEOR: 0.264264
+CIDEr: 1.003497
+SPICE: 0.192054
+obj: 36.993, attri: 7.777, rela: 6.314, col: 5.980, cnt: 8.590, size: 3.274
+
+Epoch 10
+Learning rate: 0.000500
+Bleu_1: 0.757924
+Bleu_2: 0.572068
+Bleu_3: 0.422143
+Bleu_4: 0.309816
+ROUGE_L: 0.582713
+METEOR: 0.264061
+CIDEr: 1.006198
+SPICE: 0.192721
+obj: 37.211, attri: 7.614, rela: 6.405, col: 6.318, cnt: 6.841, size: 3.361
+
+Epoch 10
+Learning rate: 0.000500
+Bleu_1: 0.756647
+Bleu_2: 0.571011
+Bleu_3: 0.420992
+Bleu_4: 0.308673
+ROUGE_L: 0.583246
+METEOR: 0.264202
+CIDEr: 1.002313
+SPICE: 0.193319
+obj: 37.313, attri: 7.409, rela: 6.511, col: 5.211, cnt: 5.730, size: 4.201
+
+Epoch 10
+Learning rate: 0.000500
+Bleu_1: 0.757402
+Bleu_2: 0.571836
+Bleu_3: 0.421441
+Bleu_4: 0.310076
+ROUGE_L: 0.583745
+METEOR: 0.264335
+CIDEr: 1.006738
+SPICE: 0.192750
+obj: 37.218, attri: 7.448, rela: 6.574, col: 4.276, cnt: 6.501, size: 4.070
+
+Epoch 10
+Learning rate: 0.000500
+Bleu_1: 0.760194
+Bleu_2: 0.573768
+Bleu_3: 0.422654
+Bleu_4: 0.309632
+ROUGE_L: 0.583393
+METEOR: 0.264398
+CIDEr: 1.007490
+SPICE: 0.192867
+obj: 37.159, attri: 7.759, rela: 6.429, col: 5.624, cnt: 7.019, size: 3.920
+
+Epoch 11
+Learning rate: 0.000500
+Bleu_1: 0.758224
+Bleu_2: 0.572295
+Bleu_3: 0.421790
+Bleu_4: 0.310349
+ROUGE_L: 0.582751
+METEOR: 0.263793
+CIDEr: 1.002995
+SPICE: 0.190739
+obj: 36.924, attri: 7.406, rela: 6.268, col: 6.159, cnt: 7.538, size: 4.062
+
+Epoch 11
+Learning rate: 0.000500
+Bleu_1: 0.756995
+Bleu_2: 0.571912
+Bleu_3: 0.421502
+Bleu_4: 0.309476
+ROUGE_L: 0.583111
+METEOR: 0.263575
+CIDEr: 1.007716
+SPICE: 0.191108
+obj: 36.914, attri: 7.614, rela: 6.346, col: 5.309, cnt: 10.219, size: 3.225
+
+Epoch 11
+Learning rate: 0.000500
+Bleu_1: 0.759601
+Bleu_2: 0.573556
+Bleu_3: 0.422822
+Bleu_4: 0.309823
+ROUGE_L: 0.583250
+METEOR: 0.264978
+CIDEr: 1.013990
+SPICE: 0.191703
+obj: 36.915, attri: 7.810, rela: 6.250, col: 5.852, cnt: 8.130, size: 4.001
+
+Epoch 11
+Learning rate: 0.000500
+Bleu_1: 0.759476
+Bleu_2: 0.575669
+Bleu_3: 0.426658
+Bleu_4: 0.314441
+ROUGE_L: 0.584672
+METEOR: 0.266492
+CIDEr: 1.013605
+SPICE: 0.194500
+obj: 37.403, attri: 8.016, rela: 6.518, col: 5.406, cnt: 8.175, size: 4.037
+
+Epoch 11
+Learning rate: 0.000500
+Bleu_1: 0.759971
+Bleu_2: 0.575147
+Bleu_3: 0.426101
+Bleu_4: 0.314188
+ROUGE_L: 0.585284
+METEOR: 0.265353
+CIDEr: 1.010487
+SPICE: 0.193398
+obj: 37.136, attri: 7.874, rela: 6.489, col: 6.757, cnt: 6.738, size: 4.047
+
+Epoch 12
+Learning rate: 0.000500
+Bleu_1: 0.762849
+Bleu_2: 0.576399
+Bleu_3: 0.424916
+Bleu_4: 0.311924
+ROUGE_L: 0.584303
+METEOR: 0.264135
+CIDEr: 1.012045
+SPICE: 0.192718
+obj: 37.254, attri: 7.603, rela: 6.287, col: 4.815, cnt: 7.093, size: 4.444
+
+Epoch 12
+Learning rate: 0.000500
+Bleu_1: 0.757788
+Bleu_2: 0.571580
+Bleu_3: 0.421153
+Bleu_4: 0.308574
+ROUGE_L: 0.581663
+METEOR: 0.264235
+CIDEr: 1.006065
+SPICE: 0.193319
+obj: 37.281, attri: 7.887, rela: 6.373, col: 5.996, cnt: 7.084, size: 3.847
+
+Epoch 12
+Learning rate: 0.000500
+Bleu_1: 0.758976
+Bleu_2: 0.574537
+Bleu_3: 0.425036
+Bleu_4: 0.312837
+ROUGE_L: 0.585290
+METEOR: 0.265188
+CIDEr: 1.015899
+SPICE: 0.194054
+obj: 37.204, attri: 7.952, rela: 6.560, col: 5.999, cnt: 9.612, size: 3.590
+
+Epoch 12
+Learning rate: 0.000500
+Bleu_1: 0.758526
+Bleu_2: 0.571644
+Bleu_3: 0.419963
+Bleu_4: 0.306553
+ROUGE_L: 0.583173
+METEOR: 0.264210
+CIDEr: 1.007429
+SPICE: 0.192759
+obj: 37.279, attri: 7.609, rela: 6.391, col: 5.110, cnt: 7.636, size: 3.796
+
+Epoch 12
+Learning rate: 0.000500
+Bleu_1: 0.761803
+Bleu_2: 0.577270
+Bleu_3: 0.428169
+Bleu_4: 0.315980
+ROUGE_L: 0.585963
+METEOR: 0.265673
+CIDEr: 1.022990
+SPICE: 0.194958
+obj: 37.587, attri: 7.701, rela: 6.554, col: 5.634, cnt: 8.092, size: 3.628
+
+Epoch 13
+Learning rate: 0.000500
+Bleu_1: 0.760082
+Bleu_2: 0.575949
+Bleu_3: 0.425989
+Bleu_4: 0.313719
+ROUGE_L: 0.584411
+METEOR: 0.266059
+CIDEr: 1.020351
+SPICE: 0.193933
+obj: 37.180, attri: 7.982, rela: 6.593, col: 5.647, cnt: 8.086, size: 3.335
+
+Epoch 13
+Learning rate: 0.000500
+Bleu_1: 0.762209
+Bleu_2: 0.577017
+Bleu_3: 0.425820
+Bleu_4: 0.312527
+ROUGE_L: 0.585170
+METEOR: 0.265271
+CIDEr: 1.014786
+SPICE: 0.193963
+obj: 37.444, attri: 7.679, rela: 6.495, col: 5.676, cnt: 7.953, size: 3.981
+
+Epoch 13
+Learning rate: 0.000500
+Bleu_1: 0.760441
+Bleu_2: 0.575519
+Bleu_3: 0.424128
+Bleu_4: 0.310447
+ROUGE_L: 0.585137
+METEOR: 0.265591
+CIDEr: 1.019186
+SPICE: 0.193711
+obj: 37.363, attri: 7.707, rela: 6.478, col: 5.019, cnt: 9.884, size: 4.100
+
+Epoch 13
+Learning rate: 0.000500
+Bleu_1: 0.760705
+Bleu_2: 0.574077
+Bleu_3: 0.423570
+Bleu_4: 0.310094
+ROUGE_L: 0.583792
+METEOR: 0.265104
+CIDEr: 1.011000
+SPICE: 0.194401
+obj: 37.547, attri: 7.392, rela: 6.562, col: 4.686, cnt: 7.271, size: 3.161
+
+Epoch 13
+Learning rate: 0.000500
+Bleu_1: 0.758345
+Bleu_2: 0.572524
+Bleu_3: 0.420518
+Bleu_4: 0.306982
+ROUGE_L: 0.584016
+METEOR: 0.265150
+CIDEr: 1.013521
+SPICE: 0.194477
+obj: 37.537, attri: 7.672, rela: 6.463, col: 5.671, cnt: 7.176, size: 3.736
+
+Epoch 14
+Learning rate: 0.000500
+Bleu_1: 0.760929
+Bleu_2: 0.574164
+Bleu_3: 0.422151
+Bleu_4: 0.308757
+ROUGE_L: 0.582771
+METEOR: 0.264745
+CIDEr: 1.012279
+SPICE: 0.193944
+obj: 37.413, attri: 7.649, rela: 6.501, col: 5.786, cnt: 7.804, size: 3.244
+
+Epoch 14
+Learning rate: 0.000500
+Bleu_1: 0.765467
+Bleu_2: 0.580849
+Bleu_3: 0.429562
+Bleu_4: 0.314595
+ROUGE_L: 0.585022
+METEOR: 0.266981
+CIDEr: 1.025371
+SPICE: 0.194800
+obj: 37.467, attri: 8.281, rela: 6.352, col: 7.183, cnt: 8.041, size: 3.849
+
+Epoch 14
+Learning rate: 0.000500
+Bleu_1: 0.764295
+Bleu_2: 0.578236
+Bleu_3: 0.426266
+Bleu_4: 0.310907
+ROUGE_L: 0.585278
+METEOR: 0.265445
+CIDEr: 1.020110
+SPICE: 0.195188
+obj: 37.585, attri: 7.892, rela: 6.451, col: 5.491, cnt: 9.671, size: 3.713
+
+Epoch 14
+Learning rate: 0.000500
+Bleu_1: 0.759577
+Bleu_2: 0.574626
+Bleu_3: 0.425411
+Bleu_4: 0.313527
+ROUGE_L: 0.585329
+METEOR: 0.267079
+CIDEr: 1.025187
+SPICE: 0.196703
+obj: 37.591, attri: 8.295, rela: 6.645, col: 6.279, cnt: 10.827, size: 4.270
+
+Epoch 14
+Learning rate: 0.000500
+Bleu_1: 0.760887
+Bleu_2: 0.574970
+Bleu_3: 0.425043
+Bleu_4: 0.312012
+ROUGE_L: 0.586080
+METEOR: 0.266778
+CIDEr: 1.023648
+SPICE: 0.195067
+obj: 37.523, attri: 7.656, rela: 6.560, col: 5.681, cnt: 9.804, size: 3.742
+
+Epoch 15
+Learning rate: 0.000500
+Bleu_1: 0.759313
+Bleu_2: 0.574557
+Bleu_3: 0.425023
+Bleu_4: 0.313671
+ROUGE_L: 0.586646
+METEOR: 0.267588
+CIDEr: 1.024476
+SPICE: 0.193898
+obj: 37.264, attri: 8.028, rela: 6.407, col: 6.754, cnt: 10.640, size: 4.203
+
+Epoch 15
+Learning rate: 0.000500
+Bleu_1: 0.764657
+Bleu_2: 0.579835
+Bleu_3: 0.428713
+Bleu_4: 0.315425
+ROUGE_L: 0.586724
+METEOR: 0.266160
+CIDEr: 1.028885
+SPICE: 0.195468
+obj: 37.594, attri: 7.971, rela: 6.440, col: 6.028, cnt: 9.241, size: 3.681
+
+Epoch 15
+Learning rate: 0.000500
+Bleu_1: 0.758897
+Bleu_2: 0.573870
+Bleu_3: 0.424363
+Bleu_4: 0.312381
+ROUGE_L: 0.584272
+METEOR: 0.266406
+CIDEr: 1.016693
+SPICE: 0.195039
+obj: 37.437, attri: 8.088, rela: 6.573, col: 5.761, cnt: 7.843, size: 5.835
+
+Epoch 15
+Learning rate: 0.000500
+Bleu_1: 0.756544
+Bleu_2: 0.570329
+Bleu_3: 0.419106
+Bleu_4: 0.305890
+ROUGE_L: 0.583130
+METEOR: 0.266034
+CIDEr: 1.013602
+SPICE: 0.195015
+obj: 37.707, attri: 7.599, rela: 6.494, col: 4.772, cnt: 8.554, size: 4.386
+
+Epoch 15
+Learning rate: 0.000500
+Bleu_1: 0.764708
+Bleu_2: 0.578954
+Bleu_3: 0.427681
+Bleu_4: 0.313148
+ROUGE_L: 0.586094
+METEOR: 0.268252
+CIDEr: 1.027572
+SPICE: 0.196773
+obj: 37.674, attri: 8.257, rela: 6.611, col: 6.330, cnt: 10.175, size: 3.748
+
+Epoch 16
+Learning rate: 0.000500
+Bleu_1: 0.759633
+Bleu_2: 0.574947
+Bleu_3: 0.424693
+Bleu_4: 0.311708
+ROUGE_L: 0.583712
+METEOR: 0.266832
+CIDEr: 1.019088
+SPICE: 0.195185
+obj: 37.525, attri: 8.153, rela: 6.465, col: 6.779, cnt: 8.679, size: 4.250
+
+Epoch 16
+Learning rate: 0.000500
+Bleu_1: 0.759642
+Bleu_2: 0.575072
+Bleu_3: 0.426304
+Bleu_4: 0.315002
+ROUGE_L: 0.585776
+METEOR: 0.267205
+CIDEr: 1.018446
+SPICE: 0.195725
+obj: 37.574, attri: 8.090, rela: 6.543, col: 7.475, cnt: 7.043, size: 4.797
+
+Epoch 16
+Learning rate: 0.000500
+Bleu_1: 0.757328
+Bleu_2: 0.572616
+Bleu_3: 0.422395
+Bleu_4: 0.310259
+ROUGE_L: 0.583685
+METEOR: 0.265966
+CIDEr: 1.013386
+SPICE: 0.194191
+obj: 37.400, attri: 7.694, rela: 6.530, col: 5.774, cnt: 7.390, size: 3.061
+
+Epoch 16
+Learning rate: 0.000500
+Bleu_1: 0.757328
+Bleu_2: 0.571631
+Bleu_3: 0.421027
+Bleu_4: 0.308706
+ROUGE_L: 0.582392
+METEOR: 0.265598
+CIDEr: 1.011853
+SPICE: 0.195075
+obj: 37.502, attri: 7.943, rela: 6.545, col: 5.985, cnt: 8.264, size: 3.798
+
+Epoch 16
+Learning rate: 0.000500
+Bleu_1: 0.759879
+Bleu_2: 0.575567
+Bleu_3: 0.426031
+Bleu_4: 0.314913
+ROUGE_L: 0.585412
+METEOR: 0.267885
+CIDEr: 1.028342
+SPICE: 0.196483
+obj: 37.700, attri: 8.072, rela: 6.540, col: 6.003, cnt: 6.990, size: 4.550
+
+Epoch 17
+Learning rate: 0.000500
+Bleu_1: 0.762563
+Bleu_2: 0.577654
+Bleu_3: 0.428551
+Bleu_4: 0.316370
+ROUGE_L: 0.587111
+METEOR: 0.267367
+CIDEr: 1.027172
+SPICE: 0.196740
+obj: 37.660, attri: 8.077, rela: 6.670, col: 5.195, cnt: 8.782, size: 3.871
+
+Epoch 17
+Learning rate: 0.000500
+Bleu_1: 0.759888
+Bleu_2: 0.574552
+Bleu_3: 0.425261
+Bleu_4: 0.313279
+ROUGE_L: 0.585558
+METEOR: 0.266723
+CIDEr: 1.025917
+SPICE: 0.195854
+obj: 37.659, attri: 7.847, rela: 6.570, col: 5.453, cnt: 7.671, size: 4.649
+
+Epoch 17
+Learning rate: 0.000500
+Bleu_1: 0.763246
+Bleu_2: 0.579050
+Bleu_3: 0.428224
+Bleu_4: 0.315187
+ROUGE_L: 0.587542
+METEOR: 0.269188
+CIDEr: 1.028574
+SPICE: 0.196910
+obj: 37.576, attri: 8.267, rela: 6.703, col: 6.687, cnt: 8.560, size: 4.029
+
+Epoch 17
+Learning rate: 0.000500
+Bleu_1: 0.758705
+Bleu_2: 0.571524
+Bleu_3: 0.420202
+Bleu_4: 0.307836
+ROUGE_L: 0.583223
+METEOR: 0.265231
+CIDEr: 1.020332
+SPICE: 0.193945
+obj: 37.182, attri: 8.097, rela: 6.351, col: 6.388, cnt: 10.610, size: 3.568
+
+Epoch 17
+Learning rate: 0.000500
+Bleu_1: 0.760314
+Bleu_2: 0.574375
+Bleu_3: 0.424696
+Bleu_4: 0.313054
+ROUGE_L: 0.584896
+METEOR: 0.266184
+CIDEr: 1.026497
+SPICE: 0.194745
+obj: 37.365, attri: 8.022, rela: 6.537, col: 5.477, cnt: 10.412, size: 4.307
+
+Epoch 18
+Learning rate: 0.000500
+Bleu_1: 0.763600
+Bleu_2: 0.577361
+Bleu_3: 0.428024
+Bleu_4: 0.316174
+ROUGE_L: 0.586405
+METEOR: 0.267111
+CIDEr: 1.027857
+SPICE: 0.195840
+obj: 37.558, attri: 8.089, rela: 6.540, col: 5.962, cnt: 12.071, size: 2.676
+
+Epoch 18
+Learning rate: 0.000500
+Bleu_1: 0.760174
+Bleu_2: 0.574195
+Bleu_3: 0.424445
+Bleu_4: 0.311741
+ROUGE_L: 0.584962
+METEOR: 0.267134
+CIDEr: 1.020006
+SPICE: 0.195984
+obj: 37.532, attri: 8.374, rela: 6.463, col: 6.773, cnt: 10.397, size: 3.327
+
+Epoch 18
+Learning rate: 0.000500
+Bleu_1: 0.759977
+Bleu_2: 0.574271
+Bleu_3: 0.424685
+Bleu_4: 0.313600
+ROUGE_L: 0.585908
+METEOR: 0.267375
+CIDEr: 1.025155
+SPICE: 0.195027
+obj: 37.365, attri: 8.055, rela: 6.523, col: 6.417, cnt: 9.138, size: 4.031
+
+Epoch 18
+Learning rate: 0.000500
+Bleu_1: 0.759514
+Bleu_2: 0.575040
+Bleu_3: 0.425981
+Bleu_4: 0.313613
+ROUGE_L: 0.586929
+METEOR: 0.267946
+CIDEr: 1.028353
+SPICE: 0.195774
+obj: 37.667, attri: 7.989, rela: 6.496, col: 6.914, cnt: 7.227, size: 4.584
+
+Epoch 18
+Learning rate: 0.000500
+Bleu_1: 0.762498
+Bleu_2: 0.576551
+Bleu_3: 0.425974
+Bleu_4: 0.312821
+ROUGE_L: 0.585309
+METEOR: 0.266785
+CIDEr: 1.027293
+SPICE: 0.195786
+obj: 37.501, attri: 8.046, rela: 6.582, col: 6.786, cnt: 8.080, size: 4.047
+
+Epoch 19
+Learning rate: 0.000500
+Bleu_1: 0.761020
+Bleu_2: 0.576679
+Bleu_3: 0.427782
+Bleu_4: 0.316972
+ROUGE_L: 0.588237
+METEOR: 0.269786
+CIDEr: 1.037696
+SPICE: 0.196878
+obj: 37.743, attri: 8.042, rela: 6.594, col: 5.893, cnt: 10.255, size: 3.501
+
+Epoch 19
+Learning rate: 0.000500
+Bleu_1: 0.761527
+Bleu_2: 0.577774
+Bleu_3: 0.429115
+Bleu_4: 0.316978
+ROUGE_L: 0.586280
+METEOR: 0.268278
+CIDEr: 1.035486
+SPICE: 0.198014
+obj: 37.865, attri: 8.275, rela: 6.711, col: 6.405, cnt: 8.975, size: 5.011
+
+Epoch 19
+Learning rate: 0.000500
+Bleu_1: 0.760249
+Bleu_2: 0.574960
+Bleu_3: 0.425119
+Bleu_4: 0.312878
+ROUGE_L: 0.586424
+METEOR: 0.266916
+CIDEr: 1.026255
+SPICE: 0.195609
+obj: 37.509, attri: 8.165, rela: 6.520, col: 6.871, cnt: 10.160, size: 3.124
+
+Epoch 19
+Learning rate: 0.000500
+Bleu_1: 0.757757
+Bleu_2: 0.573311
+Bleu_3: 0.423507
+Bleu_4: 0.310684
+ROUGE_L: 0.582880
+METEOR: 0.266293
+CIDEr: 1.019683
+SPICE: 0.195176
+obj: 37.444, attri: 8.177, rela: 6.433, col: 6.291, cnt: 8.101, size: 3.893
+
+Epoch 19
+Learning rate: 0.000500
+Bleu_1: 0.759273
+Bleu_2: 0.574672
+Bleu_3: 0.425258
+Bleu_4: 0.312314
+ROUGE_L: 0.586029
+METEOR: 0.268085
+CIDEr: 1.028867
+SPICE: 0.196770
+obj: 37.784, attri: 8.074, rela: 6.539, col: 6.555, cnt: 10.424, size: 4.118
+
+Epoch 20
+Learning rate: 0.000500
+Bleu_1: 0.763220
+Bleu_2: 0.577848
+Bleu_3: 0.428010
+Bleu_4: 0.315633
+ROUGE_L: 0.587361
+METEOR: 0.268030
+CIDEr: 1.031484
+SPICE: 0.197045
+obj: 37.682, attri: 8.170, rela: 6.678, col: 5.757, cnt: 11.307, size: 4.207
+
+Epoch 20
+Learning rate: 0.000500
+Bleu_1: 0.761602
+Bleu_2: 0.576591
+Bleu_3: 0.427325
+Bleu_4: 0.315545
+ROUGE_L: 0.585089
+METEOR: 0.267018
+CIDEr: 1.026624
+SPICE: 0.196772
+obj: 37.760, attri: 8.078, rela: 6.653, col: 6.541, cnt: 6.347, size: 3.760
+
+Epoch 20
+Learning rate: 0.000500
+Bleu_1: 0.760358
+Bleu_2: 0.575208
+Bleu_3: 0.425424
+Bleu_4: 0.313124
+ROUGE_L: 0.584898
+METEOR: 0.266836
+CIDEr: 1.019315
+SPICE: 0.196889
+obj: 37.562, attri: 8.422, rela: 6.667, col: 7.359, cnt: 7.692, size: 3.711
+
+Epoch 20
+Learning rate: 0.000500
+Bleu_1: 0.763169
+Bleu_2: 0.578859
+Bleu_3: 0.429337
+Bleu_4: 0.316203
+ROUGE_L: 0.587341
+METEOR: 0.267576
+CIDEr: 1.034226
+SPICE: 0.197013
+obj: 37.665, attri: 8.189, rela: 6.643, col: 6.696, cnt: 8.130, size: 3.825
+
+Epoch 20
+Learning rate: 0.000500
+Bleu_1: 0.764003
+Bleu_2: 0.578658
+Bleu_3: 0.428784
+Bleu_4: 0.316473
+ROUGE_L: 0.587726
+METEOR: 0.267499
+CIDEr: 1.034054
+SPICE: 0.196391
+obj: 37.572, attri: 8.063, rela: 6.741, col: 6.845, cnt: 9.182, size: 3.727
+
+Epoch 21
+Learning rate: 0.000500
+Bleu_1: 0.761092
+Bleu_2: 0.574969
+Bleu_3: 0.425518
+Bleu_4: 0.313022
+ROUGE_L: 0.585735
+METEOR: 0.268180
+CIDEr: 1.024726
+SPICE: 0.197379
+obj: 37.741, attri: 8.129, rela: 6.676, col: 5.936, cnt: 10.344, size: 3.865
+
+Epoch 21
+Learning rate: 0.000500
+Bleu_1: 0.760296
+Bleu_2: 0.576227
+Bleu_3: 0.428674
+Bleu_4: 0.318322
+ROUGE_L: 0.587239
+METEOR: 0.269236
+CIDEr: 1.039930
+SPICE: 0.196748
+obj: 37.688, attri: 8.133, rela: 6.576, col: 6.426, cnt: 9.093, size: 4.209
+
+Epoch 21
+Learning rate: 0.000500
+Bleu_1: 0.762215
+Bleu_2: 0.578984
+Bleu_3: 0.429706
+Bleu_4: 0.316842
+ROUGE_L: 0.586876
+METEOR: 0.268327
+CIDEr: 1.027001
+SPICE: 0.196256
+obj: 37.495, attri: 8.176, rela: 6.686, col: 6.773, cnt: 7.191, size: 4.543
+
+Epoch 21
+Learning rate: 0.000500
+Bleu_1: 0.763240
+Bleu_2: 0.577152
+Bleu_3: 0.427238
+Bleu_4: 0.314912
+ROUGE_L: 0.586406
+METEOR: 0.267951
+CIDEr: 1.023644
+SPICE: 0.196416
+obj: 37.625, attri: 8.016, rela: 6.664, col: 6.117, cnt: 11.117, size: 3.782
+
+Epoch 21
+Learning rate: 0.000500
+Bleu_1: 0.763797
+Bleu_2: 0.578373
+Bleu_3: 0.428312
+Bleu_4: 0.316325
+ROUGE_L: 0.588176
+METEOR: 0.269324
+CIDEr: 1.038648
+SPICE: 0.197573
+obj: 37.859, attri: 8.124, rela: 6.689, col: 5.907, cnt: 11.330, size: 4.653
+
+Epoch 22
+Learning rate: 0.000493
+Bleu_1: 0.763885
+Bleu_2: 0.578240
+Bleu_3: 0.428527
+Bleu_4: 0.316808
+ROUGE_L: 0.588286
+METEOR: 0.268518
+CIDEr: 1.036901
+SPICE: 0.195903
+obj: 37.522, attri: 8.072, rela: 6.566, col: 5.599, cnt: 7.597, size: 4.068
+
+Epoch 22
+Learning rate: 0.000493
+Bleu_1: 0.763883
+Bleu_2: 0.578267
+Bleu_3: 0.429359
+Bleu_4: 0.317131
+ROUGE_L: 0.586334
+METEOR: 0.267670
+CIDEr: 1.034489
+SPICE: 0.196457
+obj: 37.600, attri: 8.232, rela: 6.644, col: 6.870, cnt: 10.293, size: 3.835
+
+Epoch 22
+Learning rate: 0.000493
+Bleu_1: 0.761176
+Bleu_2: 0.577286
+Bleu_3: 0.428568
+Bleu_4: 0.316694
+ROUGE_L: 0.587778
+METEOR: 0.269042
+CIDEr: 1.034151
+SPICE: 0.197329
+obj: 37.567, attri: 8.595, rela: 6.684, col: 7.109, cnt: 8.975, size: 4.226
+
+Epoch 22
+Learning rate: 0.000493
+Bleu_1: 0.765723
+Bleu_2: 0.581624
+Bleu_3: 0.432496
+Bleu_4: 0.319803
+ROUGE_L: 0.588160
+METEOR: 0.269269
+CIDEr: 1.045623
+SPICE: 0.198742
+obj: 38.031, attri: 8.090, rela: 6.773, col: 5.486, cnt: 10.856, size: 4.454
+
+Epoch 22
+Learning rate: 0.000493
+Bleu_1: 0.761899
+Bleu_2: 0.578822
+Bleu_3: 0.430881
+Bleu_4: 0.320201
+ROUGE_L: 0.588788
+METEOR: 0.269247
+CIDEr: 1.041898
+SPICE: 0.197392
+obj: 37.740, attri: 8.175, rela: 6.736, col: 5.348, cnt: 8.018, size: 4.138
+
+Epoch 23
+Learning rate: 0.000486
+Bleu_1: 0.764729
+Bleu_2: 0.580122
+Bleu_3: 0.430886
+Bleu_4: 0.319608
+ROUGE_L: 0.587699
+METEOR: 0.268883
+CIDEr: 1.041714
+SPICE: 0.197469
+obj: 37.794, attri: 8.073, rela: 6.728, col: 6.349, cnt: 12.447, size: 3.651
+
+Epoch 23
+Learning rate: 0.000486
+Bleu_1: 0.764375
+Bleu_2: 0.578629
+Bleu_3: 0.428464
+Bleu_4: 0.315606
+ROUGE_L: 0.587629
+METEOR: 0.268028
+CIDEr: 1.032491
+SPICE: 0.196236
+obj: 37.592, attri: 8.130, rela: 6.530, col: 5.700, cnt: 11.301, size: 4.764
+
+Epoch 23
+Learning rate: 0.000486
+Bleu_1: 0.762681
+Bleu_2: 0.576841
+Bleu_3: 0.426274
+Bleu_4: 0.314223
+ROUGE_L: 0.586063
+METEOR: 0.268023
+CIDEr: 1.029461
+SPICE: 0.197841
+obj: 37.776, attri: 8.344, rela: 6.675, col: 7.052, cnt: 9.573, size: 4.082
+
+Epoch 23
+Learning rate: 0.000486
+Bleu_1: 0.764828
+Bleu_2: 0.580683
+Bleu_3: 0.432002
+Bleu_4: 0.320070
+ROUGE_L: 0.587100
+METEOR: 0.268043
+CIDEr: 1.041003
+SPICE: 0.197745
+obj: 37.662, attri: 8.499, rela: 6.722, col: 7.127, cnt: 10.071, size: 3.106
+
+Epoch 23
+Learning rate: 0.000486
+Bleu_1: 0.762331
+Bleu_2: 0.576709
+Bleu_3: 0.427364
+Bleu_4: 0.315986
+ROUGE_L: 0.587880
+METEOR: 0.269006
+CIDEr: 1.034674
+SPICE: 0.197340
+obj: 37.667, attri: 8.460, rela: 6.640, col: 6.811, cnt: 10.308, size: 3.879
+
+Epoch 24
+Learning rate: 0.000480
+Bleu_1: 0.761239
+Bleu_2: 0.577750
+Bleu_3: 0.428461
+Bleu_4: 0.316377
+ROUGE_L: 0.587502
+METEOR: 0.268135
+CIDEr: 1.032612
+SPICE: 0.196963
+obj: 37.698, attri: 8.240, rela: 6.607, col: 6.500, cnt: 8.187, size: 3.936
+
+Epoch 24
+Learning rate: 0.000480
+Bleu_1: 0.759682
+Bleu_2: 0.575161
+Bleu_3: 0.425803
+Bleu_4: 0.314185
+ROUGE_L: 0.586634
+METEOR: 0.268554
+CIDEr: 1.028795
+SPICE: 0.197048
+obj: 37.686, attri: 8.133, rela: 6.734, col: 6.946, cnt: 8.003, size: 3.960
+
+Epoch 24
+Learning rate: 0.000480
+Bleu_1: 0.762883
+Bleu_2: 0.576199
+Bleu_3: 0.426307
+Bleu_4: 0.314480
+ROUGE_L: 0.585855
+METEOR: 0.267881
+CIDEr: 1.026321
+SPICE: 0.195002
+obj: 37.420, attri: 8.077, rela: 6.477, col: 6.670, cnt: 9.253, size: 3.879
+
+Epoch 24
+Learning rate: 0.000480
+Bleu_1: 0.762893
+Bleu_2: 0.577865
+Bleu_3: 0.429012
+Bleu_4: 0.317999
+ROUGE_L: 0.587497
+METEOR: 0.268278
+CIDEr: 1.037470
+SPICE: 0.197101
+obj: 37.634, attri: 8.376, rela: 6.644, col: 6.945, cnt: 9.671, size: 4.873
+
+Epoch 24
+Learning rate: 0.000480
+Bleu_1: 0.759940
+Bleu_2: 0.575392
+Bleu_3: 0.425910
+Bleu_4: 0.313858
+ROUGE_L: 0.586408
+METEOR: 0.268892
+CIDEr: 1.028000
+SPICE: 0.197489
+obj: 37.736, attri: 8.235, rela: 6.721, col: 5.993, cnt: 8.901, size: 4.298
+
+Epoch 25
+Learning rate: 0.000473
+Bleu_1: 0.759762
+Bleu_2: 0.576312
+Bleu_3: 0.427503
+Bleu_4: 0.316301
+ROUGE_L: 0.587390
+METEOR: 0.269311
+CIDEr: 1.037013
+SPICE: 0.198043
+obj: 37.753, attri: 8.279, rela: 6.825, col: 6.347, cnt: 10.735, size: 3.069
+
+Epoch 25
+Learning rate: 0.000473
+Bleu_1: 0.762135
+Bleu_2: 0.576815
+Bleu_3: 0.426006
+Bleu_4: 0.313901
+ROUGE_L: 0.585647
+METEOR: 0.267778
+CIDEr: 1.028701
+SPICE: 0.196622
+obj: 37.562, attri: 8.310, rela: 6.615, col: 5.710, cnt: 11.218, size: 4.898
+
+Epoch 25
+Learning rate: 0.000473
+Bleu_1: 0.760483
+Bleu_2: 0.575988
+Bleu_3: 0.426885
+Bleu_4: 0.315128
+ROUGE_L: 0.585721
+METEOR: 0.269013
+CIDEr: 1.034857
+SPICE: 0.198940
+obj: 37.879, attri: 8.481, rela: 6.766, col: 7.742, cnt: 8.913, size: 3.924
+
+Epoch 25
+Learning rate: 0.000473
+Bleu_1: 0.762970
+Bleu_2: 0.579120
+Bleu_3: 0.429519
+Bleu_4: 0.316166
+ROUGE_L: 0.587879
+METEOR: 0.268971
+CIDEr: 1.035005
+SPICE: 0.198521
+obj: 37.800, attri: 8.505, rela: 6.795, col: 6.724, cnt: 10.575, size: 3.879
+
+Epoch 25
+Learning rate: 0.000473
+Bleu_1: 0.763155
+Bleu_2: 0.578160
+Bleu_3: 0.428752
+Bleu_4: 0.317065
+ROUGE_L: 0.587757
+METEOR: 0.268928
+CIDEr: 1.040367
+SPICE: 0.197506
+obj: 37.768, attri: 8.274, rela: 6.547, col: 6.769, cnt: 9.064, size: 4.736
+
+Epoch 26
+Learning rate: 0.000467
+Bleu_1: 0.759058
+Bleu_2: 0.575506
+Bleu_3: 0.426808
+Bleu_4: 0.315174
+ROUGE_L: 0.586378
+METEOR: 0.268654
+CIDEr: 1.032763
+SPICE: 0.198375
+obj: 37.863, attri: 8.300, rela: 6.854, col: 7.065, cnt: 9.159, size: 3.989
+
+Epoch 26
+Learning rate: 0.000467
+Bleu_1: 0.764595
+Bleu_2: 0.579451
+Bleu_3: 0.430226
+Bleu_4: 0.318337
+ROUGE_L: 0.589113
+METEOR: 0.269228
+CIDEr: 1.042167
+SPICE: 0.198410
+obj: 37.897, attri: 8.293, rela: 6.755, col: 6.420, cnt: 9.366, size: 4.610
+
+Epoch 26
+Learning rate: 0.000467
+Bleu_1: 0.761394
+Bleu_2: 0.576507
+Bleu_3: 0.428316
+Bleu_4: 0.317454
+ROUGE_L: 0.586978
+METEOR: 0.268968
+CIDEr: 1.031247
+SPICE: 0.198729
+obj: 37.833, attri: 8.567, rela: 6.615, col: 7.478, cnt: 10.530, size: 4.280
+
+Epoch 26
+Learning rate: 0.000467
+Bleu_1: 0.762808
+Bleu_2: 0.579251
+Bleu_3: 0.430625
+Bleu_4: 0.319227
+ROUGE_L: 0.589203
+METEOR: 0.270820
+CIDEr: 1.045705
+SPICE: 0.200057
+obj: 37.965, attri: 8.778, rela: 6.878, col: 7.167, cnt: 12.344, size: 4.402
+
+Epoch 26
+Learning rate: 0.000467
+Bleu_1: 0.763962
+Bleu_2: 0.578815
+Bleu_3: 0.428374
+Bleu_4: 0.316172
+ROUGE_L: 0.587533
+METEOR: 0.268900
+CIDEr: 1.041210
+SPICE: 0.198304
+obj: 37.818, attri: 8.523, rela: 6.681, col: 6.435, cnt: 11.404, size: 4.163
+
+Epoch 27
+Learning rate: 0.000460
+Bleu_1: 0.760978
+Bleu_2: 0.575519
+Bleu_3: 0.426461
+Bleu_4: 0.315112
+ROUGE_L: 0.586973
+METEOR: 0.268922
+CIDEr: 1.032734
+SPICE: 0.197462
+obj: 37.748, attri: 8.164, rela: 6.699, col: 7.296, cnt: 8.397, size: 4.576
+
+Epoch 27
+Learning rate: 0.000460
+Bleu_1: 0.767838
+Bleu_2: 0.583500
+Bleu_3: 0.433309
+Bleu_4: 0.320049
+ROUGE_L: 0.590195
+METEOR: 0.269792
+CIDEr: 1.050421
+SPICE: 0.198595
+obj: 37.674, attri: 8.638, rela: 6.796, col: 6.885, cnt: 13.760, size: 4.541
+
+Epoch 27
+Learning rate: 0.000460
+Bleu_1: 0.762147
+Bleu_2: 0.578439
+Bleu_3: 0.430159
+Bleu_4: 0.318021
+ROUGE_L: 0.587743
+METEOR: 0.268593
+CIDEr: 1.034176
+SPICE: 0.198477
+obj: 37.774, attri: 8.390, rela: 6.868, col: 6.226, cnt: 8.901, size: 3.653
+
+Epoch 27
+Learning rate: 0.000460
+Bleu_1: 0.760903
+Bleu_2: 0.575983
+Bleu_3: 0.427257
+Bleu_4: 0.316491
+ROUGE_L: 0.586557
+METEOR: 0.269714
+CIDEr: 1.038865
+SPICE: 0.198560
+obj: 37.872, attri: 8.637, rela: 6.650, col: 6.665, cnt: 11.603, size: 4.505
+
+Epoch 27
+Learning rate: 0.000460
+Bleu_1: 0.761442
+Bleu_2: 0.576488
+Bleu_3: 0.426540
+Bleu_4: 0.313898
+ROUGE_L: 0.585652
+METEOR: 0.267783
+CIDEr: 1.034645
+SPICE: 0.196431
+obj: 37.512, attri: 8.213, rela: 6.689, col: 6.812, cnt: 11.295, size: 3.983
+
+Epoch 28
+Learning rate: 0.000454
+Bleu_1: 0.766264
+Bleu_2: 0.583355
+Bleu_3: 0.434103
+Bleu_4: 0.322081
+ROUGE_L: 0.589856
+METEOR: 0.270077
+CIDEr: 1.050045
+SPICE: 0.198384
+obj: 37.955, attri: 8.041, rela: 6.833, col: 5.996, cnt: 9.295, size: 3.861
+
+Epoch 28
+Learning rate: 0.000454
+Bleu_1: 0.758721
+Bleu_2: 0.575312
+Bleu_3: 0.426889
+Bleu_4: 0.315568
+ROUGE_L: 0.587619
+METEOR: 0.270708
+CIDEr: 1.045839
+SPICE: 0.199682
+obj: 37.910, attri: 8.847, rela: 6.757, col: 6.988, cnt: 10.536, size: 4.823
+
+Epoch 28
+Learning rate: 0.000454
+Bleu_1: 0.763236
+Bleu_2: 0.580271
+Bleu_3: 0.432202
+Bleu_4: 0.320565
+ROUGE_L: 0.589101
+METEOR: 0.271165
+CIDEr: 1.046856
+SPICE: 0.200721
+obj: 38.065, attri: 8.603, rela: 6.995, col: 6.869, cnt: 10.216, size: 4.788
+
+Epoch 28
+Learning rate: 0.000454
+Bleu_1: 0.761293
+Bleu_2: 0.576742
+Bleu_3: 0.427099
+Bleu_4: 0.314861
+ROUGE_L: 0.587659
+METEOR: 0.270233
+CIDEr: 1.039987
+SPICE: 0.197706
+obj: 37.837, attri: 8.487, rela: 6.535, col: 6.735, cnt: 9.173, size: 3.922
+
+Epoch 28
+Learning rate: 0.000454
+Bleu_1: 0.761127
+Bleu_2: 0.577171
+Bleu_3: 0.428107
+Bleu_4: 0.316352
+ROUGE_L: 0.586953
+METEOR: 0.270136
+CIDEr: 1.041712
+SPICE: 0.199329
+obj: 37.891, attri: 8.670, rela: 6.770, col: 7.025, cnt: 10.507, size: 4.232
+
+Epoch 29
+Learning rate: 0.000448
+Bleu_1: 0.761626
+Bleu_2: 0.575923
+Bleu_3: 0.425531
+Bleu_4: 0.312614
+ROUGE_L: 0.585710
+METEOR: 0.267709
+CIDEr: 1.035452
+SPICE: 0.196825
+obj: 37.756, attri: 8.209, rela: 6.515, col: 6.976, cnt: 8.723, size: 4.274
+
+Epoch 29
+Learning rate: 0.000448
+Bleu_1: 0.760017
+Bleu_2: 0.576375
+Bleu_3: 0.428749
+Bleu_4: 0.317956
+ROUGE_L: 0.588623
+METEOR: 0.270244
+CIDEr: 1.038934
+SPICE: 0.198644
+obj: 37.825, attri: 8.429, rela: 6.719, col: 7.507, cnt: 8.071, size: 4.300
+
+Epoch 29
+Learning rate: 0.000448
+Bleu_1: 0.763237
+Bleu_2: 0.580013
+Bleu_3: 0.430812
+Bleu_4: 0.318240
+ROUGE_L: 0.588089
+METEOR: 0.269512
+CIDEr: 1.043189
+SPICE: 0.199543
+obj: 38.070, attri: 8.443, rela: 6.823, col: 6.627, cnt: 9.760, size: 4.817
+
+Epoch 29
+Learning rate: 0.000448
+Bleu_1: 0.763968
+Bleu_2: 0.580485
+Bleu_3: 0.431762
+Bleu_4: 0.320168
+ROUGE_L: 0.588967
+METEOR: 0.268534
+CIDEr: 1.047206
+SPICE: 0.198438
+obj: 37.838, attri: 8.197, rela: 6.896, col: 6.365, cnt: 9.849, size: 4.027
+
+Epoch 29
+Learning rate: 0.000448
+Bleu_1: 0.766120
+Bleu_2: 0.581717
+Bleu_3: 0.432522
+Bleu_4: 0.320279
+ROUGE_L: 0.588870
+METEOR: 0.270525
+CIDEr: 1.050959
+SPICE: 0.200051
+obj: 38.127, attri: 8.384, rela: 6.745, col: 6.830, cnt: 9.553, size: 4.377
+
+Epoch 30
+Learning rate: 0.000441
+Bleu_1: 0.767100
+Bleu_2: 0.582381
+Bleu_3: 0.432359
+Bleu_4: 0.319278
+ROUGE_L: 0.589256
+METEOR: 0.269176
+CIDEr: 1.041297
+SPICE: 0.197801
+obj: 37.787, attri: 8.230, rela: 6.796, col: 5.710, cnt: 9.588, size: 4.606
+
+Epoch 30
+Learning rate: 0.000441
+Bleu_1: 0.762764
+Bleu_2: 0.580348
+Bleu_3: 0.432683
+Bleu_4: 0.321005
+ROUGE_L: 0.589171
+METEOR: 0.269991
+CIDEr: 1.046971
+SPICE: 0.199100
+obj: 37.718, attri: 8.624, rela: 6.912, col: 7.106, cnt: 12.175, size: 4.367
+
+Epoch 30
+Learning rate: 0.000441
+Bleu_1: 0.763482
+Bleu_2: 0.579239
+Bleu_3: 0.429268
+Bleu_4: 0.316519
+ROUGE_L: 0.587659
+METEOR: 0.269258
+CIDEr: 1.039786
+SPICE: 0.199124
+obj: 37.951, attri: 8.164, rela: 6.882, col: 7.130, cnt: 9.680, size: 4.110
+
+Epoch 30
+Learning rate: 0.000441
+Bleu_1: 0.764847
+Bleu_2: 0.580709
+Bleu_3: 0.430544
+Bleu_4: 0.318376
+ROUGE_L: 0.588219
+METEOR: 0.268958
+CIDEr: 1.046508
+SPICE: 0.199731
+obj: 38.019, attri: 8.406, rela: 6.829, col: 6.816, cnt: 11.301, size: 3.920
+
+Epoch 30
+Learning rate: 0.000441
+Bleu_1: 0.762975
+Bleu_2: 0.579417
+Bleu_3: 0.431003
+Bleu_4: 0.318278
+ROUGE_L: 0.589293
+METEOR: 0.269921
+CIDEr: 1.042886
+SPICE: 0.198374
+obj: 37.874, attri: 8.433, rela: 6.695, col: 5.870, cnt: 9.529, size: 4.831
+
+Epoch 31
+Learning rate: 0.000435
+Bleu_1: 0.763428
+Bleu_2: 0.578729
+Bleu_3: 0.428845
+Bleu_4: 0.316852
+ROUGE_L: 0.588161
+METEOR: 0.269324
+CIDEr: 1.041735
+SPICE: 0.200224
+obj: 38.211, attri: 8.423, rela: 6.788, col: 7.013, cnt: 10.856, size: 4.643
+
+Epoch 31
+Learning rate: 0.000435
+Bleu_1: 0.759548
+Bleu_2: 0.574225
+Bleu_3: 0.425009
+Bleu_4: 0.313826
+ROUGE_L: 0.586534
+METEOR: 0.269549
+CIDEr: 1.035572
+SPICE: 0.197749
+obj: 37.687, attri: 8.454, rela: 6.713, col: 6.856, cnt: 11.123, size: 3.968
+
+Epoch 31
+Learning rate: 0.000435
+Bleu_1: 0.763832
+Bleu_2: 0.579614
+Bleu_3: 0.430203
+Bleu_4: 0.317797
+ROUGE_L: 0.588588
+METEOR: 0.269096
+CIDEr: 1.044048
+SPICE: 0.197830
+obj: 37.789, attri: 8.189, rela: 6.810, col: 6.508, cnt: 11.366, size: 4.412
+
+Epoch 31
+Learning rate: 0.000435
+Bleu_1: 0.760834
+Bleu_2: 0.577021
+Bleu_3: 0.428252
+Bleu_4: 0.315932
+ROUGE_L: 0.587967
+METEOR: 0.270389
+CIDEr: 1.036908
+SPICE: 0.198987
+obj: 37.873, attri: 8.597, rela: 6.778, col: 6.401, cnt: 9.404, size: 4.096
+
+Epoch 31
+Learning rate: 0.000435
+Bleu_1: 0.762527
+Bleu_2: 0.580292
+Bleu_3: 0.431959
+Bleu_4: 0.320705
+ROUGE_L: 0.588682
+METEOR: 0.269883
+CIDEr: 1.046151
+SPICE: 0.199086
+obj: 37.773, attri: 8.577, rela: 6.865, col: 7.396, cnt: 11.544, size: 4.894
+
+Epoch 32
+Learning rate: 0.000429
+Bleu_1: 0.766008
+Bleu_2: 0.580165
+Bleu_3: 0.429157
+Bleu_4: 0.316243
+ROUGE_L: 0.587507
+METEOR: 0.269105
+CIDEr: 1.036125
+SPICE: 0.197922
+obj: 37.839, attri: 8.147, rela: 6.805, col: 6.621, cnt: 9.099, size: 4.596
+
+Epoch 32
+Learning rate: 0.000429
+Bleu_1: 0.763027
+Bleu_2: 0.578992
+Bleu_3: 0.429151
+Bleu_4: 0.315981
+ROUGE_L: 0.587127
+METEOR: 0.268425
+CIDEr: 1.040373
+SPICE: 0.197651
+obj: 37.704, attri: 8.335, rela: 6.768, col: 6.567, cnt: 9.864, size: 4.574
+
+Epoch 32
+Learning rate: 0.000429
+Bleu_1: 0.762262
+Bleu_2: 0.578982
+Bleu_3: 0.431247
+Bleu_4: 0.319873
+ROUGE_L: 0.589536
+METEOR: 0.270173
+CIDEr: 1.047631
+SPICE: 0.199325
+obj: 37.850, attri: 8.754, rela: 6.795, col: 7.229, cnt: 11.034, size: 4.543
+
+Epoch 32
+Learning rate: 0.000429
+Bleu_1: 0.765176
+Bleu_2: 0.582445
+Bleu_3: 0.434047
+Bleu_4: 0.321528
+ROUGE_L: 0.590533
+METEOR: 0.272130
+CIDEr: 1.049102
+SPICE: 0.200767
+obj: 38.049, attri: 8.689, rela: 6.926, col: 7.359, cnt: 10.990, size: 4.792
+
+Epoch 32
+Learning rate: 0.000429
+Bleu_1: 0.761161
+Bleu_2: 0.576054
+Bleu_3: 0.426766
+Bleu_4: 0.315192
+ROUGE_L: 0.587812
+METEOR: 0.270023
+CIDEr: 1.043203
+SPICE: 0.199194
+obj: 37.870, attri: 8.613, rela: 6.844, col: 7.175, cnt: 10.166, size: 4.645
+
+Epoch 33
+Learning rate: 0.000423
+Bleu_1: 0.759302
+Bleu_2: 0.574807
+Bleu_3: 0.426233
+Bleu_4: 0.315524
+ROUGE_L: 0.586942
+METEOR: 0.269835
+CIDEr: 1.039536
+SPICE: 0.198502
+obj: 37.773, attri: 8.567, rela: 6.762, col: 7.655, cnt: 12.373, size: 3.740
+
+Epoch 33
+Learning rate: 0.000423
+Bleu_1: 0.765280
+Bleu_2: 0.580444
+Bleu_3: 0.430924
+Bleu_4: 0.318651
+ROUGE_L: 0.588276
+METEOR: 0.269619
+CIDEr: 1.046420
+SPICE: 0.198558
+obj: 37.898, attri: 8.510, rela: 6.602, col: 7.130, cnt: 11.327, size: 4.181
+
+Epoch 33
+Learning rate: 0.000423
+Bleu_1: 0.764165
+Bleu_2: 0.579563
+Bleu_3: 0.430471
+Bleu_4: 0.317836
+ROUGE_L: 0.588872
+METEOR: 0.270331
+CIDEr: 1.043296
+SPICE: 0.198706
+obj: 37.828, attri: 8.390, rela: 6.803, col: 6.852, cnt: 9.834, size: 4.058
+
+Epoch 33
+Learning rate: 0.000423
+Bleu_1: 0.761178
+Bleu_2: 0.576828
+Bleu_3: 0.427891
+Bleu_4: 0.315723
+ROUGE_L: 0.585644
+METEOR: 0.268920
+CIDEr: 1.035599
+SPICE: 0.198882
+obj: 37.810, attri: 8.602, rela: 6.761, col: 7.832, cnt: 10.619, size: 4.630
+
+Epoch 33
+Learning rate: 0.000423
+Bleu_1: 0.762547
+Bleu_2: 0.579605
+Bleu_3: 0.429852
+Bleu_4: 0.317607
+ROUGE_L: 0.588740
+METEOR: 0.270338
+CIDEr: 1.043263
+SPICE: 0.199136
+obj: 37.986, attri: 8.444, rela: 6.749, col: 7.672, cnt: 10.003, size: 3.638
+
+Epoch 34
+Learning rate: 0.000418
+Bleu_1: 0.765539
+Bleu_2: 0.581115
+Bleu_3: 0.431189
+Bleu_4: 0.319259
+ROUGE_L: 0.588818
+METEOR: 0.270947
+CIDEr: 1.050601
+SPICE: 0.200430
+obj: 38.002, attri: 8.621, rela: 6.925, col: 7.574, cnt: 11.153, size: 4.430
+
+Epoch 34
+Learning rate: 0.000418
+Bleu_1: 0.766136
+Bleu_2: 0.582863
+Bleu_3: 0.433733
+Bleu_4: 0.320708
+ROUGE_L: 0.590755
+METEOR: 0.271300
+CIDEr: 1.056106
+SPICE: 0.200690
+obj: 38.133, attri: 8.682, rela: 6.928, col: 7.180, cnt: 11.099, size: 4.780
+
+Epoch 34
+Learning rate: 0.000418
+Bleu_1: 0.763652
+Bleu_2: 0.579316
+Bleu_3: 0.430552
+Bleu_4: 0.319520
+ROUGE_L: 0.589135
+METEOR: 0.270174
+CIDEr: 1.045014
+SPICE: 0.199033
+obj: 37.742, attri: 8.696, rela: 6.858, col: 7.164, cnt: 12.699, size: 4.683
+
+Epoch 34
+Learning rate: 0.000418
+Bleu_1: 0.764169
+Bleu_2: 0.579221
+Bleu_3: 0.429600
+Bleu_4: 0.317758
+ROUGE_L: 0.589518
+METEOR: 0.270235
+CIDEr: 1.048246
+SPICE: 0.200391
+obj: 38.014, attri: 8.527, rela: 6.901, col: 7.327, cnt: 9.662, size: 5.256
+
+Epoch 34
+Learning rate: 0.000418
+Bleu_1: 0.758987
+Bleu_2: 0.576471
+Bleu_3: 0.427393
+Bleu_4: 0.315858
+ROUGE_L: 0.587068
+METEOR: 0.269836
+CIDEr: 1.040665
+SPICE: 0.198697
+obj: 37.806, attri: 8.846, rela: 6.689, col: 7.349, cnt: 11.618, size: 4.877
+
+Epoch 35
+Learning rate: 0.000412
+Bleu_1: 0.762416
+Bleu_2: 0.579986
+Bleu_3: 0.430907
+Bleu_4: 0.318327
+ROUGE_L: 0.589349
+METEOR: 0.270847
+CIDEr: 1.047288
+SPICE: 0.200469
+obj: 37.995, attri: 8.795, rela: 6.950, col: 7.441, cnt: 12.418, size: 4.187
+
+Epoch 35
+Learning rate: 0.000412
+Bleu_1: 0.765267
+Bleu_2: 0.581506
+Bleu_3: 0.432227
+Bleu_4: 0.319958
+ROUGE_L: 0.589414
+METEOR: 0.270887
+CIDEr: 1.046620
+SPICE: 0.198571
+obj: 37.742, attri: 8.722, rela: 6.728, col: 6.770, cnt: 10.921, size: 4.217
+
+Epoch 35
+Learning rate: 0.000412
+Bleu_1: 0.762507
+Bleu_2: 0.578363
+Bleu_3: 0.429813
+Bleu_4: 0.316962
+ROUGE_L: 0.587876
+METEOR: 0.270114
+CIDEr: 1.041756
+SPICE: 0.199048
+obj: 37.999, attri: 8.427, rela: 6.771, col: 6.669, cnt: 10.782, size: 4.270
+
+Epoch 35
+Learning rate: 0.000412
+Bleu_1: 0.759258
+Bleu_2: 0.576811
+Bleu_3: 0.429385
+Bleu_4: 0.318643
+ROUGE_L: 0.587667
+METEOR: 0.269508
+CIDEr: 1.041565
+SPICE: 0.198276
+obj: 37.847, attri: 8.155, rela: 6.803, col: 7.153, cnt: 9.292, size: 4.029
+
+Epoch 35
+Learning rate: 0.000412
+Bleu_1: 0.762971
+Bleu_2: 0.579816
+Bleu_3: 0.430776
+Bleu_4: 0.318857
+ROUGE_L: 0.587836
+METEOR: 0.269177
+CIDEr: 1.045178
+SPICE: 0.198413
+obj: 37.846, attri: 8.451, rela: 6.667, col: 6.868, cnt: 9.790, size: 3.995
+
+Epoch 36
+Learning rate: 0.000406
+Bleu_1: 0.762242
+Bleu_2: 0.577304
+Bleu_3: 0.428607
+Bleu_4: 0.317737
+ROUGE_L: 0.587953
+METEOR: 0.270123
+CIDEr: 1.042563
+SPICE: 0.198417
+obj: 37.974, attri: 8.266, rela: 6.602, col: 6.991, cnt: 10.062, size: 3.894
+
+Epoch 36
+Learning rate: 0.000406
+Bleu_1: 0.762842
+Bleu_2: 0.579277
+Bleu_3: 0.429443
+Bleu_4: 0.317057
+ROUGE_L: 0.588080
+METEOR: 0.270146
+CIDEr: 1.047506
+SPICE: 0.198627
+obj: 37.953, attri: 8.387, rela: 6.633, col: 6.971, cnt: 11.781, size: 4.100
+
+Epoch 36
+Learning rate: 0.000406
+Bleu_1: 0.767394
+Bleu_2: 0.583864
+Bleu_3: 0.434336
+Bleu_4: 0.321862
+ROUGE_L: 0.590387
+METEOR: 0.271145
+CIDEr: 1.053476
+SPICE: 0.199959
+obj: 37.974, attri: 8.621, rela: 6.881, col: 7.048, cnt: 11.390, size: 3.825
+
+Epoch 36
+Learning rate: 0.000406
+Bleu_1: 0.768454
+Bleu_2: 0.583347
+Bleu_3: 0.432924
+Bleu_4: 0.319408
+ROUGE_L: 0.589943
+METEOR: 0.270589
+CIDEr: 1.046178
+SPICE: 0.198554
+obj: 37.915, attri: 8.642, rela: 6.541, col: 7.237, cnt: 11.567, size: 5.361
+
+Epoch 36
+Learning rate: 0.000406
+Bleu_1: 0.768104
+Bleu_2: 0.585246
+Bleu_3: 0.435875
+Bleu_4: 0.322986
+ROUGE_L: 0.591258
+METEOR: 0.271030
+CIDEr: 1.059124
+SPICE: 0.199128
+obj: 38.021, attri: 8.432, rela: 6.828, col: 6.737, cnt: 11.529, size: 4.379
+
+Epoch 37
+Learning rate: 0.000401
+Bleu_1: 0.766214
+Bleu_2: 0.581424
+Bleu_3: 0.432234
+Bleu_4: 0.320685
+ROUGE_L: 0.588885
+METEOR: 0.270789
+CIDEr: 1.050048
+SPICE: 0.198783
+obj: 37.910, attri: 8.359, rela: 6.728, col: 6.649, cnt: 12.738, size: 3.610
+
+Epoch 37
+Learning rate: 0.000401
+Bleu_1: 0.763968
+Bleu_2: 0.579429
+Bleu_3: 0.430606
+Bleu_4: 0.318760
+ROUGE_L: 0.588887
+METEOR: 0.270482
+CIDEr: 1.047702
+SPICE: 0.200183
+obj: 37.940, attri: 8.754, rela: 6.865, col: 7.914, cnt: 10.418, size: 4.400
+
+Epoch 37
+Learning rate: 0.000401
+Bleu_1: 0.764115
+Bleu_2: 0.579684
+Bleu_3: 0.430307
+Bleu_4: 0.317735
+ROUGE_L: 0.587220
+METEOR: 0.269359
+CIDEr: 1.042503
+SPICE: 0.197663
+obj: 37.785, attri: 8.465, rela: 6.624, col: 6.680, cnt: 12.338, size: 4.406
+
+Epoch 37
+Learning rate: 0.000401
+Bleu_1: 0.762518
+Bleu_2: 0.577380
+Bleu_3: 0.427195
+Bleu_4: 0.314793
+ROUGE_L: 0.586790
+METEOR: 0.269640
+CIDEr: 1.043089
+SPICE: 0.199145
+obj: 37.944, attri: 8.702, rela: 6.610, col: 7.245, cnt: 11.316, size: 3.910
+
+Epoch 37
+Learning rate: 0.000401
+Bleu_1: 0.762827
+Bleu_2: 0.579212
+Bleu_3: 0.429644
+Bleu_4: 0.316874
+ROUGE_L: 0.587859
+METEOR: 0.269744
+CIDEr: 1.045779
+SPICE: 0.198775
+obj: 37.729, attri: 8.727, rela: 6.754, col: 7.572, cnt: 12.613, size: 4.471
+
+Epoch 38
+Learning rate: 0.000395
+Bleu_1: 0.759554
+Bleu_2: 0.574707
+Bleu_3: 0.425354
+Bleu_4: 0.313259
+ROUGE_L: 0.586624
+METEOR: 0.269348
+CIDEr: 1.040849
+SPICE: 0.197823
+obj: 37.659, attri: 8.647, rela: 6.594, col: 7.496, cnt: 11.138, size: 4.853
+
+Epoch 38
+Learning rate: 0.000395
+Bleu_1: 0.764880
+Bleu_2: 0.581962
+Bleu_3: 0.433177
+Bleu_4: 0.321068
+ROUGE_L: 0.589905
+METEOR: 0.271713
+CIDEr: 1.061042
+SPICE: 0.200658
+obj: 38.039, attri: 8.944, rela: 6.871, col: 7.801, cnt: 12.231, size: 4.110
+
+Epoch 38
+Learning rate: 0.000395
+Bleu_1: 0.765262
+Bleu_2: 0.581187
+Bleu_3: 0.431296
+Bleu_4: 0.318091
+ROUGE_L: 0.588696
+METEOR: 0.270531
+CIDEr: 1.042951
+SPICE: 0.199318
+obj: 38.071, attri: 8.340, rela: 6.745, col: 6.116, cnt: 10.071, size: 4.244
+
+Epoch 38
+Learning rate: 0.000395
+Bleu_1: 0.760165
+Bleu_2: 0.576171
+Bleu_3: 0.428860
+Bleu_4: 0.318460
+ROUGE_L: 0.587987
+METEOR: 0.269899
+CIDEr: 1.045361
+SPICE: 0.199509
+obj: 37.911, attri: 8.550, rela: 6.937, col: 7.124, cnt: 11.010, size: 4.442
+
+Epoch 38
+Learning rate: 0.000395
+Bleu_1: 0.765756
+Bleu_2: 0.582310
+Bleu_3: 0.433415
+Bleu_4: 0.321190
+ROUGE_L: 0.589752
+METEOR: 0.271093
+CIDEr: 1.054393
+SPICE: 0.199312
+obj: 37.947, attri: 8.580, rela: 6.758, col: 7.199, cnt: 11.034, size: 4.386
+
+Epoch 39
+Learning rate: 0.000390
+Bleu_1: 0.761791
+Bleu_2: 0.576905
+Bleu_3: 0.427970
+Bleu_4: 0.315615
+ROUGE_L: 0.587878
+METEOR: 0.270350
+CIDEr: 1.039517
+SPICE: 0.199818
+obj: 38.019, attri: 8.674, rela: 6.755, col: 7.285, cnt: 11.680, size: 5.361
+
+Epoch 39
+Learning rate: 0.000390
+Bleu_1: 0.766903
+Bleu_2: 0.581269
+Bleu_3: 0.430711
+Bleu_4: 0.318200
+ROUGE_L: 0.589095
+METEOR: 0.269399
+CIDEr: 1.044148
+SPICE: 0.197990
+obj: 37.792, attri: 8.224, rela: 6.798, col: 6.418, cnt: 11.218, size: 3.588
+
+Epoch 39
+Learning rate: 0.000390
+Bleu_1: 0.764468
+Bleu_2: 0.581102
+Bleu_3: 0.431172
+Bleu_4: 0.318046
+ROUGE_L: 0.589497
+METEOR: 0.270612
+CIDEr: 1.045072
+SPICE: 0.199775
+obj: 38.010, attri: 8.710, rela: 6.745, col: 7.327, cnt: 11.834, size: 4.956
+
+Epoch 39
+Learning rate: 0.000390
+Bleu_1: 0.763899
+Bleu_2: 0.579126
+Bleu_3: 0.429700
+Bleu_4: 0.317036
+ROUGE_L: 0.587264
+METEOR: 0.269283
+CIDEr: 1.044193
+SPICE: 0.199928
+obj: 37.989, attri: 8.859, rela: 6.736, col: 8.040, cnt: 11.428, size: 4.778
+
+Epoch 39
+Learning rate: 0.000390
+Bleu_1: 0.764750
+Bleu_2: 0.582309
+Bleu_3: 0.434194
+Bleu_4: 0.322117
+ROUGE_L: 0.591157
+METEOR: 0.271578
+CIDEr: 1.054088
+SPICE: 0.200508
+obj: 38.072, attri: 8.722, rela: 6.890, col: 7.590, cnt: 12.210, size: 4.248
+
+Epoch 40
+Learning rate: 0.000384
+Bleu_1: 0.765341
+Bleu_2: 0.580819
+Bleu_3: 0.431324
+Bleu_4: 0.318827
+ROUGE_L: 0.588430
+METEOR: 0.269682
+CIDEr: 1.049882
+SPICE: 0.199900
+obj: 38.174, attri: 8.435, rela: 6.762, col: 7.382, cnt: 10.314, size: 4.193
+
+Epoch 40
+Learning rate: 0.000384
+Bleu_1: 0.765895
+Bleu_2: 0.581945
+Bleu_3: 0.432056
+Bleu_4: 0.318904
+ROUGE_L: 0.588604
+METEOR: 0.270152
+CIDEr: 1.043327
+SPICE: 0.199471
+obj: 38.051, attri: 8.716, rela: 6.670, col: 7.062, cnt: 11.879, size: 4.774
+
+Epoch 40
+Learning rate: 0.000384
+Bleu_1: 0.760678
+Bleu_2: 0.577362
+Bleu_3: 0.429818
+Bleu_4: 0.318282
+ROUGE_L: 0.587586
+METEOR: 0.270155
+CIDEr: 1.045438
+SPICE: 0.200132
+obj: 38.009, attri: 8.706, rela: 6.787, col: 6.804, cnt: 10.551, size: 4.029
+
+Epoch 40
+Learning rate: 0.000384
+Bleu_1: 0.763900
+Bleu_2: 0.580249
+Bleu_3: 0.430505
+Bleu_4: 0.317911
+ROUGE_L: 0.587656
+METEOR: 0.269544
+CIDEr: 1.048759
+SPICE: 0.199591
+obj: 37.956, attri: 8.679, rela: 6.788, col: 5.976, cnt: 13.644, size: 3.525
+
+Epoch 40
+Learning rate: 0.000384
+Bleu_1: 0.768172
+Bleu_2: 0.584861
+Bleu_3: 0.434837
+Bleu_4: 0.321895
+ROUGE_L: 0.590803
+METEOR: 0.272312
+CIDEr: 1.055775
+SPICE: 0.200992
+obj: 38.242, attri: 8.578, rela: 6.893, col: 7.478, cnt: 10.530, size: 3.857
+
+Epoch 41
+Learning rate: 0.000379
+Bleu_1: 0.765808
+Bleu_2: 0.583438
+Bleu_3: 0.434252
+Bleu_4: 0.321660
+ROUGE_L: 0.590238
+METEOR: 0.271860
+CIDEr: 1.054896
+SPICE: 0.201350
+obj: 38.105, attri: 8.941, rela: 6.869, col: 6.805, cnt: 14.439, size: 4.175
+
+Epoch 41
+Learning rate: 0.000379
+Bleu_1: 0.762500
+Bleu_2: 0.579548
+Bleu_3: 0.431044
+Bleu_4: 0.319357
+ROUGE_L: 0.590339
+METEOR: 0.271382
+CIDEr: 1.054312
+SPICE: 0.200851
+obj: 38.113, attri: 8.898, rela: 6.817, col: 7.996, cnt: 11.084, size: 4.566
+
+Epoch 41
+Learning rate: 0.000379
+Bleu_1: 0.765205
+Bleu_2: 0.581387
+Bleu_3: 0.432347
+Bleu_4: 0.320534
+ROUGE_L: 0.589035
+METEOR: 0.270660
+CIDEr: 1.058605
+SPICE: 0.200769
+obj: 38.089, attri: 8.682, rela: 6.944, col: 7.915, cnt: 13.464, size: 4.090
+
+Epoch 41
+Learning rate: 0.000379
+Bleu_1: 0.765188
+Bleu_2: 0.580814
+Bleu_3: 0.432406
+Bleu_4: 0.321305
+ROUGE_L: 0.588820
+METEOR: 0.270932
+CIDEr: 1.051893
+SPICE: 0.199218
+obj: 37.853, attri: 8.551, rela: 6.828, col: 7.105, cnt: 11.967, size: 3.900
+
+Epoch 41
+Learning rate: 0.000379
+Bleu_1: 0.766141
+Bleu_2: 0.582351
+Bleu_3: 0.433410
+Bleu_4: 0.320965
+ROUGE_L: 0.588817
+METEOR: 0.270248
+CIDEr: 1.055034
+SPICE: 0.199696
+obj: 37.989, attri: 8.799, rela: 6.701, col: 7.642, cnt: 12.646, size: 5.027
+
+Epoch 42
+Learning rate: 0.000374
+Bleu_1: 0.763964
+Bleu_2: 0.579123
+Bleu_3: 0.429369
+Bleu_4: 0.317465
+ROUGE_L: 0.588032
+METEOR: 0.269962
+CIDEr: 1.045334
+SPICE: 0.200292
+obj: 37.995, attri: 8.576, rela: 6.990, col: 7.018, cnt: 11.550, size: 4.112
+
+Epoch 42
+Learning rate: 0.000374
+Bleu_1: 0.763309
+Bleu_2: 0.580959
+Bleu_3: 0.431989
+Bleu_4: 0.320780
+ROUGE_L: 0.588434
+METEOR: 0.271476
+CIDEr: 1.051509
+SPICE: 0.200159
+obj: 37.970, attri: 8.611, rela: 6.906, col: 7.006, cnt: 11.484, size: 3.750
+
+Epoch 42
+Learning rate: 0.000374
+Bleu_1: 0.764967
+Bleu_2: 0.582428
+Bleu_3: 0.433110
+Bleu_4: 0.320816
+ROUGE_L: 0.589339
+METEOR: 0.270642
+CIDEr: 1.052020
+SPICE: 0.200583
+obj: 38.025, attri: 8.700, rela: 6.925, col: 7.018, cnt: 12.003, size: 4.709
+
+Epoch 42
+Learning rate: 0.000374
+Bleu_1: 0.764348
+Bleu_2: 0.581133
+Bleu_3: 0.431053
+Bleu_4: 0.318633
+ROUGE_L: 0.588702
+METEOR: 0.270962
+CIDEr: 1.048504
+SPICE: 0.200103
+obj: 38.146, attri: 8.566, rela: 6.835, col: 6.406, cnt: 11.864, size: 4.355
+
+Epoch 42
+Learning rate: 0.000374
+Bleu_1: 0.764741
+Bleu_2: 0.580752
+Bleu_3: 0.431925
+Bleu_4: 0.320301
+ROUGE_L: 0.588864
+METEOR: 0.271489
+CIDEr: 1.051346
+SPICE: 0.200364
+obj: 38.107, attri: 8.705, rela: 6.770, col: 7.985, cnt: 11.250, size: 4.244
+
+Epoch 43
+Learning rate: 0.000369
+Bleu_1: 0.768988
+Bleu_2: 0.584396
+Bleu_3: 0.434274
+Bleu_4: 0.320685
+ROUGE_L: 0.590118
+METEOR: 0.271811
+CIDEr: 1.057601
+SPICE: 0.201882
+obj: 38.339, attri: 8.726, rela: 6.871, col: 7.557, cnt: 12.270, size: 4.114
+
+Epoch 43
+Learning rate: 0.000369
+Bleu_1: 0.763802
+Bleu_2: 0.579264
+Bleu_3: 0.429560
+Bleu_4: 0.317707
+ROUGE_L: 0.588167
+METEOR: 0.270095
+CIDEr: 1.046511
+SPICE: 0.200298
+obj: 38.110, attri: 8.793, rela: 6.691, col: 7.138, cnt: 11.633, size: 5.165
+
+Epoch 43
+Learning rate: 0.000369
+Bleu_1: 0.761596
+Bleu_2: 0.577903
+Bleu_3: 0.428810
+Bleu_4: 0.316428
+ROUGE_L: 0.588468
+METEOR: 0.270616
+CIDEr: 1.046539
+SPICE: 0.198693
+obj: 38.001, attri: 8.479, rela: 6.595, col: 5.968, cnt: 11.647, size: 4.236
+
+Epoch 43
+Learning rate: 0.000369
+Bleu_1: 0.764891
+Bleu_2: 0.579957
+Bleu_3: 0.430563
+Bleu_4: 0.318835
+ROUGE_L: 0.589165
+METEOR: 0.269953
+CIDEr: 1.045477
+SPICE: 0.199371
+obj: 37.896, attri: 8.492, rela: 6.830, col: 7.276, cnt: 11.241, size: 4.501
+
+Epoch 43
+Learning rate: 0.000369
+Bleu_1: 0.768044
+Bleu_2: 0.583760
+Bleu_3: 0.433484
+Bleu_4: 0.320634
+ROUGE_L: 0.588913
+METEOR: 0.271330
+CIDEr: 1.060168
+SPICE: 0.201886
+obj: 38.340, attri: 8.607, rela: 6.923, col: 6.784, cnt: 12.619, size: 4.574
+
+Epoch 44
+Learning rate: 0.000363
+Bleu_1: 0.767914
+Bleu_2: 0.582862
+Bleu_3: 0.432967
+Bleu_4: 0.320717
+ROUGE_L: 0.589448
+METEOR: 0.270200
+CIDEr: 1.050331
+SPICE: 0.200031
+obj: 38.068, attri: 8.375, rela: 6.880, col: 6.418, cnt: 11.366, size: 4.823
+
+Epoch 44
+Learning rate: 0.000363
+Bleu_1: 0.766202
+Bleu_2: 0.584131
+Bleu_3: 0.435487
+Bleu_4: 0.324104
+ROUGE_L: 0.592026
+METEOR: 0.272164
+CIDEr: 1.055017
+SPICE: 0.202094
+obj: 38.283, attri: 8.725, rela: 7.091, col: 6.676, cnt: 11.692, size: 4.882
+
+Epoch 44
+Learning rate: 0.000363
+Bleu_1: 0.765537
+Bleu_2: 0.581517
+Bleu_3: 0.432657
+Bleu_4: 0.320663
+ROUGE_L: 0.588358
+METEOR: 0.269665
+CIDEr: 1.053201
+SPICE: 0.199863
+obj: 37.857, attri: 8.939, rela: 6.847, col: 7.676, cnt: 13.129, size: 4.250
+
+Epoch 44
+Learning rate: 0.000363
+Bleu_1: 0.764541
+Bleu_2: 0.580776
+Bleu_3: 0.431178
+Bleu_4: 0.318557
+ROUGE_L: 0.588651
+METEOR: 0.271025
+CIDEr: 1.051991
+SPICE: 0.200865
+obj: 38.188, attri: 8.843, rela: 6.752, col: 7.435, cnt: 10.818, size: 3.991
+
+Epoch 44
+Learning rate: 0.000363
+Bleu_1: 0.766866
+Bleu_2: 0.583875
+Bleu_3: 0.434468
+Bleu_4: 0.321910
+ROUGE_L: 0.591267
+METEOR: 0.272314
+CIDEr: 1.061860
+SPICE: 0.200816
+obj: 38.093, attri: 8.640, rela: 6.978, col: 6.689, cnt: 11.025, size: 4.213
+
+Epoch 45
+Learning rate: 0.000358
+Bleu_1: 0.762583
+Bleu_2: 0.579155
+Bleu_3: 0.430497
+Bleu_4: 0.318812
+ROUGE_L: 0.586653
+METEOR: 0.269816
+CIDEr: 1.050771
+SPICE: 0.200775
+obj: 38.022, attri: 8.857, rela: 6.845, col: 7.622, cnt: 11.499, size: 4.410
+
+Epoch 45
+Learning rate: 0.000358
+Bleu_1: 0.764526
+Bleu_2: 0.580417
+Bleu_3: 0.431527
+Bleu_4: 0.319466
+ROUGE_L: 0.590081
+METEOR: 0.271977
+CIDEr: 1.055353
+SPICE: 0.201193
+obj: 38.158, attri: 8.670, rela: 6.944, col: 6.880, cnt: 12.498, size: 4.744
+
+Epoch 45
+Learning rate: 0.000358
+Bleu_1: 0.762888
+Bleu_2: 0.579871
+Bleu_3: 0.431634
+Bleu_4: 0.319353
+ROUGE_L: 0.587839
+METEOR: 0.270975
+CIDEr: 1.047032
+SPICE: 0.200274
+obj: 38.172, attri: 8.594, rela: 6.765, col: 6.868, cnt: 11.810, size: 5.003
+
+Epoch 45
+Learning rate: 0.000358
+Bleu_1: 0.766998
+Bleu_2: 0.583603
+Bleu_3: 0.433246
+Bleu_4: 0.320868
+ROUGE_L: 0.590016
+METEOR: 0.271177
+CIDEr: 1.058236
+SPICE: 0.200854
+obj: 38.080, attri: 8.678, rela: 6.919, col: 7.063, cnt: 12.824, size: 4.770
+
+Epoch 45
+Learning rate: 0.000358
+Bleu_1: 0.763051
+Bleu_2: 0.578589
+Bleu_3: 0.429895
+Bleu_4: 0.317597
+ROUGE_L: 0.587954
+METEOR: 0.271256
+CIDEr: 1.054062
+SPICE: 0.200978
+obj: 38.156, attri: 8.776, rela: 6.909, col: 6.557, cnt: 11.855, size: 4.096
+
+Epoch 46
+Learning rate: 0.000354
+Bleu_1: 0.765400
+Bleu_2: 0.581715
+Bleu_3: 0.432993
+Bleu_4: 0.321168
+ROUGE_L: 0.589095
+METEOR: 0.271235
+CIDEr: 1.053588
+SPICE: 0.200973
+obj: 38.067, attri: 9.047, rela: 6.894, col: 6.728, cnt: 13.153, size: 3.776
+
+Epoch 46
+Learning rate: 0.000354
+Bleu_1: 0.765038
+Bleu_2: 0.580287
+Bleu_3: 0.431218
+Bleu_4: 0.319465
+ROUGE_L: 0.588881
+METEOR: 0.271833
+CIDEr: 1.052336
+SPICE: 0.202279
+obj: 38.330, attri: 8.858, rela: 6.919, col: 7.539, cnt: 12.877, size: 4.392
+
+Epoch 46
+Learning rate: 0.000354
+Bleu_1: 0.765156
+Bleu_2: 0.582579
+Bleu_3: 0.433225
+Bleu_4: 0.321430
+ROUGE_L: 0.589476
+METEOR: 0.271143
+CIDEr: 1.047614
+SPICE: 0.199095
+obj: 37.831, attri: 8.723, rela: 6.749, col: 7.021, cnt: 10.299, size: 4.205
+
+Epoch 46
+Learning rate: 0.000354
+Bleu_1: 0.766430
+Bleu_2: 0.584717
+Bleu_3: 0.435744
+Bleu_4: 0.323805
+ROUGE_L: 0.591862
+METEOR: 0.272762
+CIDEr: 1.062072
+SPICE: 0.201271
+obj: 38.227, attri: 8.932, rela: 6.747, col: 7.541, cnt: 13.677, size: 3.746
+
+Epoch 46
+Learning rate: 0.000354
+Bleu_1: 0.764416
+Bleu_2: 0.580184
+Bleu_3: 0.430802
+Bleu_4: 0.318426
+ROUGE_L: 0.588542
+METEOR: 0.270509
+CIDEr: 1.048860
+SPICE: 0.199199
+obj: 37.845, attri: 8.543, rela: 6.863, col: 7.268, cnt: 11.327, size: 4.679
+
+Epoch 47
+Learning rate: 0.000349
+Bleu_1: 0.770404
+Bleu_2: 0.586674
+Bleu_3: 0.435967
+Bleu_4: 0.322478
+ROUGE_L: 0.591668
+METEOR: 0.271807
+CIDEr: 1.059489
+SPICE: 0.200919
+obj: 38.221, attri: 8.915, rela: 6.729, col: 7.566, cnt: 12.625, size: 4.527
+
+Epoch 47
+Learning rate: 0.000349
+Bleu_1: 0.765609
+Bleu_2: 0.581146
+Bleu_3: 0.431944
+Bleu_4: 0.319799
+ROUGE_L: 0.589892
+METEOR: 0.271415
+CIDEr: 1.054501
+SPICE: 0.199667
+obj: 37.983, attri: 8.412, rela: 6.892, col: 7.604, cnt: 11.144, size: 3.934
+
+Epoch 47
+Learning rate: 0.000349
+Bleu_1: 0.763925
+Bleu_2: 0.582137
+Bleu_3: 0.434681
+Bleu_4: 0.323473
+ROUGE_L: 0.590034
+METEOR: 0.271999
+CIDEr: 1.055130
+SPICE: 0.199561
+obj: 37.826, attri: 8.834, rela: 6.750, col: 7.327, cnt: 11.455, size: 4.604
+
+Epoch 47
+Learning rate: 0.000349
+Bleu_1: 0.764668
+Bleu_2: 0.581248
+Bleu_3: 0.432123
+Bleu_4: 0.319301
+ROUGE_L: 0.587653
+METEOR: 0.271116
+CIDEr: 1.048477
+SPICE: 0.199494
+obj: 37.951, attri: 8.510, rela: 6.770, col: 7.106, cnt: 10.880, size: 4.479
+
+Epoch 48
+Learning rate: 0.000344
+Bleu_1: 0.764527
+Bleu_2: 0.580832
+Bleu_3: 0.430518
+Bleu_4: 0.317915
+ROUGE_L: 0.589863
+METEOR: 0.271768
+CIDEr: 1.053252
+SPICE: 0.201169
+obj: 38.142, attri: 8.868, rela: 6.833, col: 8.008, cnt: 11.449, size: 5.001
+
+Epoch 48
+Learning rate: 0.000344
+Bleu_1: 0.765929
+Bleu_2: 0.582577
+Bleu_3: 0.432764
+Bleu_4: 0.319963
+ROUGE_L: 0.588992
+METEOR: 0.271470
+CIDEr: 1.059005
+SPICE: 0.201439
+obj: 38.281, attri: 8.724, rela: 6.790, col: 7.524, cnt: 10.877, size: 4.432
+
+Epoch 48
+Learning rate: 0.000344
+Bleu_1: 0.770444
+Bleu_2: 0.585774
+Bleu_3: 0.435370
+Bleu_4: 0.321463
+ROUGE_L: 0.590452
+METEOR: 0.272645
+CIDEr: 1.064323
+SPICE: 0.201114
+obj: 38.205, attri: 8.889, rela: 6.827, col: 7.629, cnt: 13.111, size: 4.999
+
+Epoch 48
+Learning rate: 0.000344
+Bleu_1: 0.763179
+Bleu_2: 0.580865
+Bleu_3: 0.432846
+Bleu_4: 0.320775
+ROUGE_L: 0.590875
+METEOR: 0.273396
+CIDEr: 1.058978
+SPICE: 0.201496
+obj: 38.036, attri: 9.297, rela: 6.778, col: 8.799, cnt: 12.462, size: 4.479
+
+Epoch 48
+Learning rate: 0.000344
+Bleu_1: 0.767738
+Bleu_2: 0.582979
+Bleu_3: 0.433689
+Bleu_4: 0.321391
+ROUGE_L: 0.590355
+METEOR: 0.271863
+CIDEr: 1.059397
+SPICE: 0.200658
+obj: 38.146, attri: 8.783, rela: 6.698, col: 7.687, cnt: 12.477, size: 4.933
+
+Epoch 49
+Learning rate: 0.000339
+Bleu_1: 0.764840
+Bleu_2: 0.582033
+Bleu_3: 0.434406
+Bleu_4: 0.323115
+ROUGE_L: 0.589091
+METEOR: 0.271577
+CIDEr: 1.058766
+SPICE: 0.200982
+obj: 38.113, attri: 9.079, rela: 6.745, col: 7.452, cnt: 12.204, size: 4.784
+
+Epoch 49
+Learning rate: 0.000339
+Bleu_1: 0.767344
+Bleu_2: 0.583368
+Bleu_3: 0.434776
+Bleu_4: 0.322088
+ROUGE_L: 0.591147
+METEOR: 0.271756
+CIDEr: 1.055601
+SPICE: 0.201275
+obj: 38.179, attri: 8.923, rela: 6.849, col: 6.980, cnt: 11.046, size: 4.539
+
+Epoch 49
+Learning rate: 0.000339
+Bleu_1: 0.762214
+Bleu_2: 0.578010
+Bleu_3: 0.428570
+Bleu_4: 0.316995
+ROUGE_L: 0.588307
+METEOR: 0.272119
+CIDEr: 1.046777
+SPICE: 0.200662
+obj: 38.086, attri: 8.847, rela: 6.804, col: 7.674, cnt: 10.850, size: 4.703
+
+Epoch 49
+Learning rate: 0.000339
+Bleu_1: 0.763202
+Bleu_2: 0.577380
+Bleu_3: 0.427189
+Bleu_4: 0.314871
+ROUGE_L: 0.587624
+METEOR: 0.270775
+CIDEr: 1.038551
+SPICE: 0.199422
+obj: 38.103, attri: 8.500, rela: 6.673, col: 7.655, cnt: 10.892, size: 3.242
+
+Epoch 49
+Learning rate: 0.000339
+Bleu_1: 0.764671
+Bleu_2: 0.581841
+Bleu_3: 0.433421
+Bleu_4: 0.320829
+ROUGE_L: 0.589567
+METEOR: 0.271240
+CIDEr: 1.053467
+SPICE: 0.200384
+obj: 37.963, attri: 8.773, rela: 6.871, col: 7.339, cnt: 11.529, size: 4.386
+
+Epoch 50
+Learning rate: 0.000334
+Bleu_1: 0.766053
+Bleu_2: 0.580620
+Bleu_3: 0.430897
+Bleu_4: 0.319203
+ROUGE_L: 0.589889
+METEOR: 0.271811
+CIDEr: 1.057904
+SPICE: 0.201464
+obj: 38.180, attri: 8.822, rela: 6.910, col: 7.994, cnt: 13.093, size: 4.839
+
+Epoch 50
+Learning rate: 0.000334
+Bleu_1: 0.764028
+Bleu_2: 0.581092
+Bleu_3: 0.432645
+Bleu_4: 0.321699
+ROUGE_L: 0.589192
+METEOR: 0.270925
+CIDEr: 1.058438
+SPICE: 0.201481
+obj: 38.149, attri: 8.967, rela: 6.894, col: 8.235, cnt: 11.079, size: 5.311
+
+Epoch 50
+Learning rate: 0.000334
+Bleu_1: 0.764521
+Bleu_2: 0.581027
+Bleu_3: 0.432788
+Bleu_4: 0.321104
+ROUGE_L: 0.590082
+METEOR: 0.270904
+CIDEr: 1.054816
+SPICE: 0.201854
+obj: 38.185, attri: 8.963, rela: 6.889, col: 7.643, cnt: 13.484, size: 5.021
+
+Epoch 50
+Learning rate: 0.000334
+Bleu_1: 0.767365
+Bleu_2: 0.582558
+Bleu_3: 0.432930
+Bleu_4: 0.320233
+ROUGE_L: 0.588683
+METEOR: 0.271520
+CIDEr: 1.059619
+SPICE: 0.203134
+obj: 38.505, attri: 8.744, rela: 7.013, col: 7.127, cnt: 10.794, size: 4.794
+
+Epoch 50
+Learning rate: 0.000334
+Bleu_1: 0.762350
+Bleu_2: 0.579316
+Bleu_3: 0.430940
+Bleu_4: 0.318993
+ROUGE_L: 0.587699
+METEOR: 0.271400
+CIDEr: 1.048792
+SPICE: 0.201236
+obj: 38.078, attri: 8.978, rela: 6.909, col: 8.005, cnt: 11.241, size: 4.811
+
+Epoch 51
+Learning rate: 0.000330
+Bleu_1: 0.767569
+Bleu_2: 0.584827
+Bleu_3: 0.435879
+Bleu_4: 0.324580
+ROUGE_L: 0.591989
+METEOR: 0.273136
+CIDEr: 1.067552
+SPICE: 0.202120
+obj: 38.226, attri: 8.731, rela: 7.124, col: 7.468, cnt: 12.359, size: 4.327
+
+Epoch 51
+Learning rate: 0.000330
+Bleu_1: 0.764128
+Bleu_2: 0.579960
+Bleu_3: 0.430622
+Bleu_4: 0.318676
+ROUGE_L: 0.587670
+METEOR: 0.270689
+CIDEr: 1.050245
+SPICE: 0.199994
+obj: 38.008, attri: 8.801, rela: 6.765, col: 6.716, cnt: 12.412, size: 4.300
+
+Epoch 51
+Learning rate: 0.000330
+Bleu_1: 0.762796
+Bleu_2: 0.578957
+Bleu_3: 0.428852
+Bleu_4: 0.316028
+ROUGE_L: 0.588373
+METEOR: 0.270593
+CIDEr: 1.050095
+SPICE: 0.199835
+obj: 38.139, attri: 8.579, rela: 6.664, col: 7.321, cnt: 11.476, size: 4.560
+
+Epoch 51
+Learning rate: 0.000330
+Bleu_1: 0.766157
+Bleu_2: 0.583241
+Bleu_3: 0.434317
+Bleu_4: 0.322000
+ROUGE_L: 0.590099
+METEOR: 0.271885
+CIDEr: 1.062043
+SPICE: 0.201579
+obj: 38.376, attri: 8.779, rela: 6.799, col: 7.434, cnt: 11.879, size: 4.843
+
+Epoch 51
+Learning rate: 0.000330
+Bleu_1: 0.765926
+Bleu_2: 0.580705
+Bleu_3: 0.431551
+Bleu_4: 0.319723
+ROUGE_L: 0.589427
+METEOR: 0.270474
+CIDEr: 1.052026
+SPICE: 0.198107
+obj: 37.847, attri: 8.419, rela: 6.614, col: 6.886, cnt: 11.656, size: 3.381
+
+Epoch 52
+Learning rate: 0.000325
+Bleu_1: 0.762138
+Bleu_2: 0.580347
+Bleu_3: 0.432315
+Bleu_4: 0.321883
+ROUGE_L: 0.589147
+METEOR: 0.271784
+CIDEr: 1.051649
+SPICE: 0.200769
+obj: 38.019, attri: 8.728, rela: 6.965, col: 7.988, cnt: 9.446, size: 4.361
+
+Epoch 52
+Learning rate: 0.000325
+Bleu_1: 0.765596
+Bleu_2: 0.581769
+Bleu_3: 0.432267
+Bleu_4: 0.320172
+ROUGE_L: 0.590058
+METEOR: 0.272158
+CIDEr: 1.051185
+SPICE: 0.201688
+obj: 38.249, attri: 8.731, rela: 6.988, col: 7.315, cnt: 13.025, size: 4.661
+
+Epoch 52
+Learning rate: 0.000325
+Bleu_1: 0.767097
+Bleu_2: 0.583152
+Bleu_3: 0.433227
+Bleu_4: 0.320202
+ROUGE_L: 0.590300
+METEOR: 0.270827
+CIDEr: 1.059997
+SPICE: 0.201865
+obj: 38.266, attri: 8.723, rela: 7.008, col: 7.408, cnt: 10.990, size: 4.981
+
+Epoch 52
+Learning rate: 0.000325
+Bleu_1: 0.765943
+Bleu_2: 0.582519
+Bleu_3: 0.434074
+Bleu_4: 0.322514
+ROUGE_L: 0.590643
+METEOR: 0.271966
+CIDEr: 1.059589
+SPICE: 0.201286
+obj: 38.115, attri: 8.743, rela: 6.937, col: 8.221, cnt: 12.418, size: 4.491
+
+Epoch 52
+Learning rate: 0.000325
+Bleu_1: 0.764046
+Bleu_2: 0.581669
+Bleu_3: 0.433362
+Bleu_4: 0.322044
+ROUGE_L: 0.589999
+METEOR: 0.271608
+CIDEr: 1.056059
+SPICE: 0.202277
+obj: 38.222, attri: 8.911, rela: 7.033, col: 7.866, cnt: 12.121, size: 4.667
+
+Epoch 53
+Learning rate: 0.000321
+Bleu_1: 0.765136
+Bleu_2: 0.580603
+Bleu_3: 0.430859
+Bleu_4: 0.318410
+ROUGE_L: 0.589015
+METEOR: 0.270851
+CIDEr: 1.055464
+SPICE: 0.200951
+obj: 38.258, attri: 8.826, rela: 6.716, col: 7.751, cnt: 11.846, size: 4.268
+
+Epoch 53
+Learning rate: 0.000321
+Bleu_1: 0.765784
+Bleu_2: 0.581416
+Bleu_3: 0.432221
+Bleu_4: 0.319726
+ROUGE_L: 0.589656
+METEOR: 0.271332
+CIDEr: 1.053743
+SPICE: 0.200463
+obj: 38.081, attri: 8.824, rela: 6.833, col: 7.277, cnt: 10.391, size: 4.068
+
+Epoch 53
+Learning rate: 0.000321
+Bleu_1: 0.766763
+Bleu_2: 0.582053
+Bleu_3: 0.432991
+Bleu_4: 0.320939
+ROUGE_L: 0.588482
+METEOR: 0.271432
+CIDEr: 1.058789
+SPICE: 0.200950
+obj: 38.169, attri: 8.723, rela: 6.901, col: 7.095, cnt: 11.247, size: 4.711
+
+Epoch 53
+Learning rate: 0.000321
+Bleu_1: 0.767601
+Bleu_2: 0.585860
+Bleu_3: 0.437069
+Bleu_4: 0.324167
+ROUGE_L: 0.591565
+METEOR: 0.272156
+CIDEr: 1.059387
+SPICE: 0.202811
+obj: 38.363, attri: 9.164, rela: 6.899, col: 8.050, cnt: 12.308, size: 4.837
+
+Epoch 53
+Learning rate: 0.000321
+Bleu_1: 0.768734
+Bleu_2: 0.583833
+Bleu_3: 0.433533
+Bleu_4: 0.320743
+ROUGE_L: 0.590397
+METEOR: 0.272683
+CIDEr: 1.059314
+SPICE: 0.202645
+obj: 38.487, attri: 8.674, rela: 6.982, col: 7.004, cnt: 12.157, size: 5.003
+
+Epoch 54
+Learning rate: 0.000316
+Bleu_1: 0.764933
+Bleu_2: 0.581925
+Bleu_3: 0.432638
+Bleu_4: 0.320997
+ROUGE_L: 0.588527
+METEOR: 0.271143
+CIDEr: 1.058961
+SPICE: 0.201340
+obj: 38.241, attri: 8.763, rela: 6.893, col: 8.188, cnt: 11.440, size: 3.782
+
+Epoch 54
+Learning rate: 0.000316
+Bleu_1: 0.768161
+Bleu_2: 0.585001
+Bleu_3: 0.435902
+Bleu_4: 0.322575
+ROUGE_L: 0.590841
+METEOR: 0.272693
+CIDEr: 1.066467
+SPICE: 0.202579
+obj: 38.312, attri: 8.892, rela: 6.993, col: 7.436, cnt: 12.246, size: 4.469
+
+Epoch 54
+Learning rate: 0.000316
+Bleu_1: 0.767708
+Bleu_2: 0.584796
+Bleu_3: 0.435577
+Bleu_4: 0.323857
+ROUGE_L: 0.590372
+METEOR: 0.272238
+CIDEr: 1.067466
+SPICE: 0.203246
+obj: 38.394, attri: 9.028, rela: 7.149, col: 7.893, cnt: 13.366, size: 3.825
+
+Epoch 54
+Learning rate: 0.000316
+Bleu_1: 0.764607
+Bleu_2: 0.580365
+Bleu_3: 0.431906
+Bleu_4: 0.320623
+ROUGE_L: 0.588794
+METEOR: 0.272069
+CIDEr: 1.050544
+SPICE: 0.201382
+obj: 38.082, attri: 9.044, rela: 6.906, col: 7.644, cnt: 11.455, size: 4.189
+
+Epoch 54
+Learning rate: 0.000316
+Bleu_1: 0.767669
+Bleu_2: 0.584583
+Bleu_3: 0.434602
+Bleu_4: 0.322058
+ROUGE_L: 0.591011
+METEOR: 0.273099
+CIDEr: 1.061782
+SPICE: 0.201814
+obj: 38.209, attri: 9.026, rela: 6.870, col: 8.433, cnt: 12.936, size: 4.513
+
+Epoch 55
+Learning rate: 0.000312
+Bleu_1: 0.763296
+Bleu_2: 0.580687
+Bleu_3: 0.432376
+Bleu_4: 0.321509
+ROUGE_L: 0.589584
+METEOR: 0.272263
+CIDEr: 1.053638
+SPICE: 0.200932
+obj: 38.113, attri: 8.678, rela: 6.941, col: 7.163, cnt: 12.634, size: 4.799
+
+Epoch 55
+Learning rate: 0.000312
+Bleu_1: 0.765868
+Bleu_2: 0.582472
+Bleu_3: 0.432993
+Bleu_4: 0.322147
+ROUGE_L: 0.590738
+METEOR: 0.271754
+CIDEr: 1.056729
+SPICE: 0.200789
+obj: 38.199, attri: 8.842, rela: 6.728, col: 7.438, cnt: 11.544, size: 4.752
+
+Epoch 55
+Learning rate: 0.000312
+Bleu_1: 0.769330
+Bleu_2: 0.585204
+Bleu_3: 0.434998
+Bleu_4: 0.321758
+ROUGE_L: 0.590856
+METEOR: 0.271987
+CIDEr: 1.061022
+SPICE: 0.201812
+obj: 38.364, attri: 8.572, rela: 6.991, col: 7.504, cnt: 11.233, size: 4.677
+
+Epoch 55
+Learning rate: 0.000312
+Bleu_1: 0.765760
+Bleu_2: 0.582040
+Bleu_3: 0.432942
+Bleu_4: 0.320745
+ROUGE_L: 0.589824
+METEOR: 0.270750
+CIDEr: 1.054124
+SPICE: 0.199826
+obj: 38.058, attri: 8.592, rela: 6.771, col: 7.449, cnt: 11.173, size: 4.586
+
+Epoch 55
+Learning rate: 0.000312
+Bleu_1: 0.765652
+Bleu_2: 0.582727
+Bleu_3: 0.433074
+Bleu_4: 0.320630
+ROUGE_L: 0.590937
+METEOR: 0.271703
+CIDEr: 1.056957
+SPICE: 0.200097
+obj: 37.991, attri: 8.804, rela: 6.793, col: 7.450, cnt: 13.544, size: 3.944
+
+Epoch 56
+Learning rate: 0.000308
+Bleu_1: 0.763034
+Bleu_2: 0.578840
+Bleu_3: 0.429616
+Bleu_4: 0.317392
+ROUGE_L: 0.587865
+METEOR: 0.270894
+CIDEr: 1.050436
+SPICE: 0.201838
+obj: 38.233, attri: 8.996, rela: 6.862, col: 8.287, cnt: 11.727, size: 4.705
+
+Epoch 56
+Learning rate: 0.000308
+Bleu_1: 0.762615
+Bleu_2: 0.577899
+Bleu_3: 0.429627
+Bleu_4: 0.318146
+ROUGE_L: 0.588005
+METEOR: 0.271268
+CIDEr: 1.048584
+SPICE: 0.201242
+obj: 38.157, attri: 8.895, rela: 6.888, col: 8.056, cnt: 13.120, size: 4.471
+
+Epoch 56
+Learning rate: 0.000308
+Bleu_1: 0.764773
+Bleu_2: 0.580740
+Bleu_3: 0.430833
+Bleu_4: 0.318296
+ROUGE_L: 0.588572
+METEOR: 0.271784
+CIDEr: 1.048244
+SPICE: 0.200625
+obj: 38.050, attri: 8.865, rela: 6.835, col: 7.687, cnt: 12.121, size: 4.319
+
+Epoch 56
+Learning rate: 0.000308
+Bleu_1: 0.765633
+Bleu_2: 0.583162
+Bleu_3: 0.435064
+Bleu_4: 0.324189
+ROUGE_L: 0.590379
+METEOR: 0.272032
+CIDEr: 1.061890
+SPICE: 0.200483
+obj: 38.097, attri: 8.749, rela: 6.780, col: 7.657, cnt: 11.861, size: 4.762
+
+Epoch 56
+Learning rate: 0.000308
+Bleu_1: 0.766943
+Bleu_2: 0.584024
+Bleu_3: 0.435152
+Bleu_4: 0.323350
+ROUGE_L: 0.591428
+METEOR: 0.273470
+CIDEr: 1.065305
+SPICE: 0.203132
+obj: 38.393, attri: 8.927, rela: 7.155, col: 7.118, cnt: 13.262, size: 4.622
+
+Epoch 57
+Learning rate: 0.000304
+Bleu_1: 0.768612
+Bleu_2: 0.585170
+Bleu_3: 0.434572
+Bleu_4: 0.321147
+ROUGE_L: 0.591099
+METEOR: 0.272168
+CIDEr: 1.055920
+SPICE: 0.201634
+obj: 38.325, attri: 8.635, rela: 6.886, col: 7.151, cnt: 11.464, size: 4.347
+
+Epoch 57
+Learning rate: 0.000304
+Bleu_1: 0.764442
+Bleu_2: 0.580308
+Bleu_3: 0.430689
+Bleu_4: 0.317794
+ROUGE_L: 0.589461
+METEOR: 0.271340
+CIDEr: 1.045754
+SPICE: 0.200615
+obj: 37.977, attri: 8.834, rela: 6.907, col: 8.047, cnt: 12.960, size: 4.612
+
+Epoch 57
+Learning rate: 0.000304
+Bleu_1: 0.767600
+Bleu_2: 0.584472
+Bleu_3: 0.436023
+Bleu_4: 0.324187
+ROUGE_L: 0.591732
+METEOR: 0.272935
+CIDEr: 1.063761
+SPICE: 0.201236
+obj: 38.251, attri: 8.904, rela: 6.810, col: 7.103, cnt: 12.018, size: 3.979
+
+Epoch 57
+Learning rate: 0.000304
+Bleu_1: 0.766904
+Bleu_2: 0.582933
+Bleu_3: 0.433701
+Bleu_4: 0.321225
+ROUGE_L: 0.589529
+METEOR: 0.271265
+CIDEr: 1.056106
+SPICE: 0.201139
+obj: 38.133, attri: 8.941, rela: 6.842, col: 8.149, cnt: 13.899, size: 4.566
+
+Epoch 57
+Learning rate: 0.000304
+Bleu_1: 0.765406
+Bleu_2: 0.582794
+Bleu_3: 0.434075
+Bleu_4: 0.322006
+ROUGE_L: 0.590953
+METEOR: 0.272681
+CIDEr: 1.058699
+SPICE: 0.202021
+obj: 38.324, attri: 8.904, rela: 6.862, col: 7.555, cnt: 13.612, size: 4.444
+
+Epoch 58
+Learning rate: 0.000299
+Bleu_1: 0.764751
+Bleu_2: 0.581325
+Bleu_3: 0.431961
+Bleu_4: 0.319408
+ROUGE_L: 0.588811
+METEOR: 0.271675
+CIDEr: 1.052574
+SPICE: 0.200491
+obj: 38.179, attri: 8.811, rela: 6.703, col: 6.629, cnt: 13.686, size: 4.300
+
+Epoch 58
+Learning rate: 0.000299
+Bleu_1: 0.763317
+Bleu_2: 0.580301
+Bleu_3: 0.431361
+Bleu_4: 0.319492
+ROUGE_L: 0.588900
+METEOR: 0.271702
+CIDEr: 1.055811
+SPICE: 0.201593
+obj: 38.171, attri: 8.939, rela: 6.855, col: 7.247, cnt: 13.434, size: 4.576
+
+Epoch 58
+Learning rate: 0.000299
+Bleu_1: 0.764738
+Bleu_2: 0.581929
+Bleu_3: 0.434501
+Bleu_4: 0.323613
+ROUGE_L: 0.590131
+METEOR: 0.272217
+CIDEr: 1.060524
+SPICE: 0.201388
+obj: 38.002, attri: 9.131, rela: 6.905, col: 8.103, cnt: 13.529, size: 4.855
+
+Epoch 58
+Learning rate: 0.000299
+Bleu_1: 0.765290
+Bleu_2: 0.580207
+Bleu_3: 0.430659
+Bleu_4: 0.318757
+ROUGE_L: 0.589954
+METEOR: 0.272347
+CIDEr: 1.053671
+SPICE: 0.200998
+obj: 38.114, attri: 9.019, rela: 6.727, col: 7.805, cnt: 14.921, size: 4.450
+
+Epoch 58
+Learning rate: 0.000299
+Bleu_1: 0.765642
+Bleu_2: 0.583458
+Bleu_3: 0.435739
+Bleu_4: 0.323133
+ROUGE_L: 0.590641
+METEOR: 0.271923
+CIDEr: 1.059933
+SPICE: 0.202194
+obj: 38.302, attri: 8.905, rela: 7.034, col: 7.602, cnt: 12.794, size: 5.017
+
+Epoch 59
+Learning rate: 0.000295
+Bleu_1: 0.769404
+Bleu_2: 0.586308
+Bleu_3: 0.436268
+Bleu_4: 0.323714
+ROUGE_L: 0.591499
+METEOR: 0.272300
+CIDEr: 1.063964
+SPICE: 0.202001
+obj: 38.366, attri: 8.691, rela: 6.894, col: 7.894, cnt: 11.733, size: 4.448
+
+Epoch 59
+Learning rate: 0.000295
+Bleu_1: 0.767131
+Bleu_2: 0.583450
+Bleu_3: 0.433738
+Bleu_4: 0.321224
+ROUGE_L: 0.589493
+METEOR: 0.270639
+CIDEr: 1.054242
+SPICE: 0.200649
+obj: 38.233, attri: 8.607, rela: 6.796, col: 7.249, cnt: 12.130, size: 4.448
+
+Epoch 59
+Learning rate: 0.000295
+Bleu_1: 0.765817
+Bleu_2: 0.581930
+Bleu_3: 0.432444
+Bleu_4: 0.319966
+ROUGE_L: 0.588889
+METEOR: 0.271414
+CIDEr: 1.049673
+SPICE: 0.200635
+obj: 38.024, attri: 8.734, rela: 6.938, col: 7.966, cnt: 10.990, size: 4.738
+
+Epoch 59
+Learning rate: 0.000295
+Bleu_1: 0.763760
+Bleu_2: 0.580971
+Bleu_3: 0.431576
+Bleu_4: 0.319577
+ROUGE_L: 0.588976
+METEOR: 0.272209
+CIDEr: 1.060466
+SPICE: 0.201866
+obj: 38.285, attri: 8.952, rela: 6.835, col: 7.243, cnt: 13.559, size: 4.742
+
+Epoch 59
+Learning rate: 0.000295
+Bleu_1: 0.765053
+Bleu_2: 0.581560
+Bleu_3: 0.433387
+Bleu_4: 0.321715
+ROUGE_L: 0.590653
+METEOR: 0.273320
+CIDEr: 1.058006
+SPICE: 0.203138
+obj: 38.290, attri: 9.021, rela: 7.133, col: 8.274, cnt: 12.569, size: 4.558
+
+Epoch 60
+Learning rate: 0.000291
+Bleu_1: 0.768544
+Bleu_2: 0.585642
+Bleu_3: 0.436563
+Bleu_4: 0.324447
+ROUGE_L: 0.592252
+METEOR: 0.273812
+CIDEr: 1.062050
+SPICE: 0.202716
+obj: 38.427, attri: 8.929, rela: 6.886, col: 8.128, cnt: 12.723, size: 4.677
+
+Epoch 60
+Learning rate: 0.000291
+Bleu_1: 0.769309
+Bleu_2: 0.585912
+Bleu_3: 0.435566
+Bleu_4: 0.322020
+ROUGE_L: 0.589807
+METEOR: 0.271620
+CIDEr: 1.059272
+SPICE: 0.200616
+obj: 37.992, attri: 8.924, rela: 6.740, col: 8.139, cnt: 13.588, size: 4.207
+
+Epoch 60
+Learning rate: 0.000291
+Bleu_1: 0.762973
+Bleu_2: 0.580535
+Bleu_3: 0.431940
+Bleu_4: 0.320750
+ROUGE_L: 0.589257
+METEOR: 0.271912
+CIDEr: 1.057488
+SPICE: 0.202203
+obj: 38.196, attri: 9.036, rela: 6.925, col: 7.941, cnt: 13.025, size: 4.309
+
+Epoch 60
+Learning rate: 0.000291
+Bleu_1: 0.765940
+Bleu_2: 0.582854
+Bleu_3: 0.433828
+Bleu_4: 0.321184
+ROUGE_L: 0.590964
+METEOR: 0.272689
+CIDEr: 1.064271
+SPICE: 0.201747
+obj: 38.191, attri: 8.929, rela: 6.914, col: 6.494, cnt: 13.203, size: 4.606
+
+Epoch 60
+Learning rate: 0.000291
+Bleu_1: 0.767829
+Bleu_2: 0.584434
+Bleu_3: 0.435072
+Bleu_4: 0.322340
+ROUGE_L: 0.590280
+METEOR: 0.271937
+CIDEr: 1.055213
+SPICE: 0.200824
+obj: 38.173, attri: 8.697, rela: 6.838, col: 7.057, cnt: 13.233, size: 4.671
+
+Epoch 61
+Learning rate: 0.000287
+Bleu_1: 0.763837
+Bleu_2: 0.579370
+Bleu_3: 0.429614
+Bleu_4: 0.317170
+ROUGE_L: 0.589221
+METEOR: 0.271772
+CIDEr: 1.049111
+SPICE: 0.201585
+obj: 38.153, attri: 8.942, rela: 6.856, col: 8.113, cnt: 13.064, size: 3.970
+
+Epoch 61
+Learning rate: 0.000287
+Bleu_1: 0.765364
+Bleu_2: 0.580224
+Bleu_3: 0.429958
+Bleu_4: 0.316919
+ROUGE_L: 0.589103
+METEOR: 0.271207
+CIDEr: 1.050176
+SPICE: 0.199982
+obj: 38.039, attri: 8.687, rela: 6.777, col: 8.117, cnt: 12.951, size: 5.033
+
+Epoch 61
+Learning rate: 0.000287
+Bleu_1: 0.762095
+Bleu_2: 0.578798
+Bleu_3: 0.430431
+Bleu_4: 0.319268
+ROUGE_L: 0.587972
+METEOR: 0.271560
+CIDEr: 1.049123
+SPICE: 0.200458
+obj: 38.058, attri: 8.673, rela: 6.907, col: 8.320, cnt: 11.846, size: 4.145
+
+Epoch 61
+Learning rate: 0.000287
+Bleu_1: 0.763987
+Bleu_2: 0.579756
+Bleu_3: 0.430569
+Bleu_4: 0.319024
+ROUGE_L: 0.587969
+METEOR: 0.270728
+CIDEr: 1.047719
+SPICE: 0.201796
+obj: 38.200, attri: 9.116, rela: 6.918, col: 8.163, cnt: 13.416, size: 4.580
+
+Epoch 61
+Learning rate: 0.000287
+Bleu_1: 0.765940
+Bleu_2: 0.583141
+Bleu_3: 0.434033
+Bleu_4: 0.322481
+ROUGE_L: 0.591684
+METEOR: 0.272750
+CIDEr: 1.062939
+SPICE: 0.201579
+obj: 38.173, attri: 8.673, rela: 6.999, col: 7.717, cnt: 12.033, size: 4.768
+
+Epoch 62
+Learning rate: 0.000283
+Bleu_1: 0.765125
+Bleu_2: 0.582847
+Bleu_3: 0.434502
+Bleu_4: 0.322503
+ROUGE_L: 0.591093
+METEOR: 0.273083
+CIDEr: 1.063695
+SPICE: 0.202945
+obj: 38.300, attri: 8.976, rela: 7.104, col: 7.733, cnt: 13.227, size: 5.538
+
+Epoch 62
+Learning rate: 0.000283
+Bleu_1: 0.765280
+Bleu_2: 0.581763
+Bleu_3: 0.431877
+Bleu_4: 0.320072
+ROUGE_L: 0.589788
+METEOR: 0.272048
+CIDEr: 1.051854
+SPICE: 0.201544
+obj: 38.121, attri: 8.984, rela: 6.907, col: 7.688, cnt: 12.344, size: 4.758
+
+Epoch 62
+Learning rate: 0.000283
+Bleu_1: 0.765095
+Bleu_2: 0.581182
+Bleu_3: 0.432424
+Bleu_4: 0.320082
+ROUGE_L: 0.589051
+METEOR: 0.271962
+CIDEr: 1.050359
+SPICE: 0.200606
+obj: 38.047, attri: 8.741, rela: 6.820, col: 7.345, cnt: 11.736, size: 4.398
+
+Epoch 62
+Learning rate: 0.000283
+Bleu_1: 0.765001
+Bleu_2: 0.582176
+Bleu_3: 0.433440
+Bleu_4: 0.321422
+ROUGE_L: 0.590241
+METEOR: 0.271843
+CIDEr: 1.060851
+SPICE: 0.201143
+obj: 38.094, attri: 9.091, rela: 6.716, col: 8.383, cnt: 13.277, size: 4.270
+
+Epoch 62
+Learning rate: 0.000283
+Bleu_1: 0.766131
+Bleu_2: 0.582126
+Bleu_3: 0.432264
+Bleu_4: 0.319578
+ROUGE_L: 0.589939
+METEOR: 0.272009
+CIDEr: 1.056025
+SPICE: 0.200675
+obj: 37.899, attri: 8.989, rela: 6.914, col: 7.817, cnt: 14.181, size: 4.711
+
+Epoch 63
+Learning rate: 0.000279
+Bleu_1: 0.765965
+Bleu_2: 0.582004
+Bleu_3: 0.432409
+Bleu_4: 0.320593
+ROUGE_L: 0.588960
+METEOR: 0.272089
+CIDEr: 1.057282
+SPICE: 0.202849
+obj: 38.401, attri: 8.934, rela: 6.930, col: 7.960, cnt: 11.849, size: 4.877
+
+Epoch 63
+Learning rate: 0.000279
+Bleu_1: 0.767345
+Bleu_2: 0.583923
+Bleu_3: 0.434066
+Bleu_4: 0.321680
+ROUGE_L: 0.591045
+METEOR: 0.272558
+CIDEr: 1.062983
+SPICE: 0.202982
+obj: 38.300, attri: 9.007, rela: 7.059, col: 7.693, cnt: 13.182, size: 4.916
+
+Epoch 63
+Learning rate: 0.000279
+Bleu_1: 0.770419
+Bleu_2: 0.585671
+Bleu_3: 0.435606
+Bleu_4: 0.322335
+ROUGE_L: 0.589854
+METEOR: 0.272296
+CIDEr: 1.063503
+SPICE: 0.201265
+obj: 38.345, attri: 8.578, rela: 6.862, col: 6.671, cnt: 13.016, size: 4.021
+
+Epoch 63
+Learning rate: 0.000279
+Bleu_1: 0.765955
+Bleu_2: 0.582923
+Bleu_3: 0.433736
+Bleu_4: 0.321127
+ROUGE_L: 0.590622
+METEOR: 0.272460
+CIDEr: 1.055723
+SPICE: 0.201875
+obj: 38.225, attri: 8.979, rela: 6.875, col: 7.518, cnt: 12.003, size: 4.718
+
+Epoch 63
+Learning rate: 0.000279
+Bleu_1: 0.764627
+Bleu_2: 0.579036
+Bleu_3: 0.429707
+Bleu_4: 0.317844
+ROUGE_L: 0.588927
+METEOR: 0.272331
+CIDEr: 1.054680
+SPICE: 0.202901
+obj: 38.412, attri: 8.934, rela: 6.955, col: 7.908, cnt: 11.656, size: 4.774
+
+Epoch 64
+Learning rate: 0.000275
+Bleu_1: 0.765497
+Bleu_2: 0.583824
+Bleu_3: 0.435191
+Bleu_4: 0.323021
+ROUGE_L: 0.590402
+METEOR: 0.272596
+CIDEr: 1.063525
+SPICE: 0.203050
+obj: 38.328, attri: 9.192, rela: 6.984, col: 8.336, cnt: 13.775, size: 4.100
+
+Epoch 64
+Learning rate: 0.000275
+Bleu_1: 0.767349
+Bleu_2: 0.584828
+Bleu_3: 0.436506
+Bleu_4: 0.323737
+ROUGE_L: 0.590652
+METEOR: 0.272345
+CIDEr: 1.060849
+SPICE: 0.200632
+obj: 38.095, attri: 8.770, rela: 6.807, col: 7.859, cnt: 13.076, size: 4.531
+
+Epoch 64
+Learning rate: 0.000275
+Bleu_1: 0.764165
+Bleu_2: 0.580954
+Bleu_3: 0.431721
+Bleu_4: 0.319419
+ROUGE_L: 0.589665
+METEOR: 0.272305
+CIDEr: 1.053934
+SPICE: 0.200866
+obj: 38.230, attri: 8.770, rela: 6.756, col: 7.938, cnt: 11.508, size: 4.096
+
+Epoch 64
+Learning rate: 0.000275
+Bleu_1: 0.767310
+Bleu_2: 0.584199
+Bleu_3: 0.435370
+Bleu_4: 0.323468
+ROUGE_L: 0.590853
+METEOR: 0.272480
+CIDEr: 1.062587
+SPICE: 0.202932
+obj: 38.408, attri: 9.114, rela: 6.882, col: 8.087, cnt: 13.342, size: 5.187
+
+Epoch 64
+Learning rate: 0.000275
+Bleu_1: 0.768178
+Bleu_2: 0.585259
+Bleu_3: 0.436430
+Bleu_4: 0.324041
+ROUGE_L: 0.591967
+METEOR: 0.272575
+CIDEr: 1.064606
+SPICE: 0.202054
+obj: 38.308, attri: 8.893, rela: 6.908, col: 7.858, cnt: 12.382, size: 4.258
+
+Epoch 65
+Learning rate: 0.000272
+Bleu_1: 0.766271
+Bleu_2: 0.582678
+Bleu_3: 0.433787
+Bleu_4: 0.321370
+ROUGE_L: 0.588359
+METEOR: 0.271726
+CIDEr: 1.060161
+SPICE: 0.201837
+obj: 38.116, attri: 9.088, rela: 6.924, col: 7.817, cnt: 13.061, size: 5.096
+
+Epoch 65
+Learning rate: 0.000272
+Bleu_1: 0.763903
+Bleu_2: 0.581831
+Bleu_3: 0.433930
+Bleu_4: 0.322473
+ROUGE_L: 0.590378
+METEOR: 0.272674
+CIDEr: 1.055493
+SPICE: 0.201453
+obj: 38.058, attri: 9.102, rela: 6.886, col: 8.197, cnt: 12.521, size: 4.841
+
+Epoch 65
+Learning rate: 0.000272
+Bleu_1: 0.766539
+Bleu_2: 0.583820
+Bleu_3: 0.434469
+Bleu_4: 0.321530
+ROUGE_L: 0.590842
+METEOR: 0.272422
+CIDEr: 1.064618
+SPICE: 0.201739
+obj: 38.298, attri: 8.810, rela: 6.870, col: 7.481, cnt: 13.778, size: 4.363
+
+Epoch 65
+Learning rate: 0.000272
+Bleu_1: 0.766318
+Bleu_2: 0.584485
+Bleu_3: 0.436306
+Bleu_4: 0.324460
+ROUGE_L: 0.591694
+METEOR: 0.272556
+CIDEr: 1.062743
+SPICE: 0.202874
+obj: 38.221, attri: 9.163, rela: 7.063, col: 8.025, cnt: 13.988, size: 4.120
+
+Epoch 65
+Learning rate: 0.000272
+Bleu_1: 0.765909
+Bleu_2: 0.583221
+Bleu_3: 0.433439
+Bleu_4: 0.320859
+ROUGE_L: 0.590738
+METEOR: 0.272476
+CIDEr: 1.063374
+SPICE: 0.200512
+obj: 37.955, attri: 8.953, rela: 6.806, col: 8.335, cnt: 13.079, size: 4.388
+
+Epoch 66
+Learning rate: 0.000268
+Bleu_1: 0.763776
+Bleu_2: 0.580647
+Bleu_3: 0.431887
+Bleu_4: 0.320625
+ROUGE_L: 0.590328
+METEOR: 0.271208
+CIDEr: 1.053498
+SPICE: 0.200647
+obj: 38.004, attri: 8.758, rela: 7.003, col: 7.213, cnt: 11.781, size: 3.810
+
+Epoch 66
+Learning rate: 0.000268
+Bleu_1: 0.766892
+Bleu_2: 0.582984
+Bleu_3: 0.434604
+Bleu_4: 0.322036
+ROUGE_L: 0.590419
+METEOR: 0.272215
+CIDEr: 1.063474
+SPICE: 0.201849
+obj: 38.242, attri: 8.921, rela: 6.881, col: 7.363, cnt: 12.936, size: 4.323
+
+Epoch 66
+Learning rate: 0.000268
+Bleu_1: 0.763801
+Bleu_2: 0.581861
+Bleu_3: 0.433787
+Bleu_4: 0.321942
+ROUGE_L: 0.589077
+METEOR: 0.271694
+CIDEr: 1.061058
+SPICE: 0.201695
+obj: 38.166, attri: 9.197, rela: 6.841, col: 7.998, cnt: 14.187, size: 5.058
+
+Epoch 66
+Learning rate: 0.000268
+Bleu_1: 0.764178
+Bleu_2: 0.580101
+Bleu_3: 0.431565
+Bleu_4: 0.319422
+ROUGE_L: 0.589467
+METEOR: 0.271990
+CIDEr: 1.055609
+SPICE: 0.202551
+obj: 38.356, attri: 8.897, rela: 6.946, col: 8.173, cnt: 12.942, size: 4.264
+
+Epoch 66
+Learning rate: 0.000268
+Bleu_1: 0.765297
+Bleu_2: 0.582723
+Bleu_3: 0.434431
+Bleu_4: 0.323011
+ROUGE_L: 0.591069
+METEOR: 0.272049
+CIDEr: 1.060203
+SPICE: 0.202593
+obj: 38.283, attri: 9.049, rela: 7.028, col: 7.739, cnt: 12.753, size: 4.432
+
+Epoch 67
+Learning rate: 0.000264
+Bleu_1: 0.768513
+Bleu_2: 0.586132
+Bleu_3: 0.437591
+Bleu_4: 0.325136
+ROUGE_L: 0.590648
+METEOR: 0.272754
+CIDEr: 1.065477
+SPICE: 0.203099
+obj: 38.264, attri: 9.133, rela: 7.022, col: 8.288, cnt: 14.136, size: 4.525
+
+Epoch 67
+Learning rate: 0.000264
+Bleu_1: 0.766835
+Bleu_2: 0.583290
+Bleu_3: 0.433678
+Bleu_4: 0.321724
+ROUGE_L: 0.590965
+METEOR: 0.272384
+CIDEr: 1.060577
+SPICE: 0.202986
+obj: 38.249, attri: 9.113, rela: 7.039, col: 8.098, cnt: 13.372, size: 4.835
+
+Epoch 67
+Learning rate: 0.000264
+Bleu_1: 0.761194
+Bleu_2: 0.576841
+Bleu_3: 0.428940
+Bleu_4: 0.317900
+ROUGE_L: 0.587905
+METEOR: 0.270833
+CIDEr: 1.050895
+SPICE: 0.199470
+obj: 37.882, attri: 8.850, rela: 6.652, col: 7.847, cnt: 13.662, size: 4.228
+
+Epoch 67
+Learning rate: 0.000264
+Bleu_1: 0.767741
+Bleu_2: 0.583074
+Bleu_3: 0.432811
+Bleu_4: 0.319841
+ROUGE_L: 0.588869
+METEOR: 0.271224
+CIDEr: 1.052922
+SPICE: 0.200043
+obj: 38.022, attri: 8.715, rela: 6.746, col: 8.382, cnt: 11.967, size: 4.547
+
+Epoch 67
+Learning rate: 0.000264
+Bleu_1: 0.765833
+Bleu_2: 0.583902
+Bleu_3: 0.435251
+Bleu_4: 0.322226
+ROUGE_L: 0.590492
+METEOR: 0.272331
+CIDEr: 1.062367
+SPICE: 0.200908
+obj: 37.939, attri: 9.178, rela: 6.805, col: 8.078, cnt: 12.661, size: 5.116
+
+Epoch 68
+Learning rate: 0.000261
+Bleu_1: 0.766519
+Bleu_2: 0.582908
+Bleu_3: 0.432823
+Bleu_4: 0.320049
+ROUGE_L: 0.590668
+METEOR: 0.271996
+CIDEr: 1.060057
+SPICE: 0.201675
+obj: 38.229, attri: 8.906, rela: 6.911, col: 6.878, cnt: 13.372, size: 4.309
+
+Epoch 68
+Learning rate: 0.000261
+Bleu_1: 0.767029
+Bleu_2: 0.583189
+Bleu_3: 0.434318
+Bleu_4: 0.322855
+ROUGE_L: 0.589804
+METEOR: 0.272618
+CIDEr: 1.065468
+SPICE: 0.202309
+obj: 38.296, attri: 9.066, rela: 6.908, col: 7.253, cnt: 12.299, size: 5.173
+
+Epoch 68
+Learning rate: 0.000261
+Bleu_1: 0.765291
+Bleu_2: 0.581868
+Bleu_3: 0.432342
+Bleu_4: 0.320941
+ROUGE_L: 0.590323
+METEOR: 0.272261
+CIDEr: 1.064178
+SPICE: 0.201125
+obj: 38.156, attri: 9.027, rela: 6.742, col: 7.536, cnt: 13.730, size: 5.005
+
+Epoch 68
+Learning rate: 0.000261
+Bleu_1: 0.766072
+Bleu_2: 0.582243
+Bleu_3: 0.433852
+Bleu_4: 0.321487
+ROUGE_L: 0.589472
+METEOR: 0.272150
+CIDEr: 1.064886
+SPICE: 0.201865
+obj: 38.166, attri: 9.156, rela: 6.823, col: 8.091, cnt: 12.077, size: 4.940
+
+Epoch 68
+Learning rate: 0.000261
+Bleu_1: 0.765106
+Bleu_2: 0.581875
+Bleu_3: 0.434706
+Bleu_4: 0.323016
+ROUGE_L: 0.589266
+METEOR: 0.272150
+CIDEr: 1.059797
+SPICE: 0.201689
+obj: 38.146, attri: 9.131, rela: 6.892, col: 8.314, cnt: 13.040, size: 4.363
+
+Epoch 69
+Learning rate: 0.000257
+Bleu_1: 0.765596
+Bleu_2: 0.583298
+Bleu_3: 0.435567
+Bleu_4: 0.324024
+ROUGE_L: 0.591008
+METEOR: 0.273230
+CIDEr: 1.066772
+SPICE: 0.201596
+obj: 38.078, attri: 9.063, rela: 6.933, col: 8.393, cnt: 12.116, size: 3.983
+
+Epoch 69
+Learning rate: 0.000257
+Bleu_1: 0.768017
+Bleu_2: 0.584908
+Bleu_3: 0.435086
+Bleu_4: 0.322496
+ROUGE_L: 0.591264
+METEOR: 0.271779
+CIDEr: 1.058301
+SPICE: 0.201028
+obj: 38.023, attri: 8.864, rela: 6.904, col: 7.572, cnt: 13.677, size: 4.709
+
+Epoch 69
+Learning rate: 0.000257
+Bleu_1: 0.766730
+Bleu_2: 0.584485
+Bleu_3: 0.436103
+Bleu_4: 0.324205
+ROUGE_L: 0.590366
+METEOR: 0.272813
+CIDEr: 1.063559
+SPICE: 0.203252
+obj: 38.321, attri: 9.205, rela: 6.955, col: 8.363, cnt: 13.321, size: 4.539
+
+Epoch 69
+Learning rate: 0.000257
+Bleu_1: 0.767141
+Bleu_2: 0.583427
+Bleu_3: 0.433992
+Bleu_4: 0.321278
+ROUGE_L: 0.590384
+METEOR: 0.272546
+CIDEr: 1.064228
+SPICE: 0.201964
+obj: 38.411, attri: 8.895, rela: 6.834, col: 7.699, cnt: 13.748, size: 4.608
+
+Epoch 69
+Learning rate: 0.000257
+Bleu_1: 0.766395
+Bleu_2: 0.581884
+Bleu_3: 0.431688
+Bleu_4: 0.319089
+ROUGE_L: 0.589915
+METEOR: 0.272874
+CIDEr: 1.057801
+SPICE: 0.202786
+obj: 38.343, attri: 9.150, rela: 6.914, col: 7.535, cnt: 14.767, size: 5.167
+
+Epoch 70
+Learning rate: 0.000253
+Bleu_1: 0.765507
+Bleu_2: 0.582338
+Bleu_3: 0.433935
+Bleu_4: 0.322499
+ROUGE_L: 0.589848
+METEOR: 0.272577
+CIDEr: 1.060696
+SPICE: 0.201119
+obj: 38.212, attri: 8.765, rela: 6.805, col: 7.208, cnt: 13.218, size: 4.720
+
+Epoch 70
+Learning rate: 0.000253
+Bleu_1: 0.767059
+Bleu_2: 0.584971
+Bleu_3: 0.435992
+Bleu_4: 0.323483
+ROUGE_L: 0.590620
+METEOR: 0.271850
+CIDEr: 1.065681
+SPICE: 0.202949
+obj: 38.471, attri: 8.895, rela: 6.998, col: 7.377, cnt: 12.604, size: 4.995
+
+Epoch 70
+Learning rate: 0.000253
+Bleu_1: 0.763751
+Bleu_2: 0.581930
+Bleu_3: 0.432920
+Bleu_4: 0.320135
+ROUGE_L: 0.589577
+METEOR: 0.272059
+CIDEr: 1.053993
+SPICE: 0.201980
+obj: 38.200, attri: 8.980, rela: 6.986, col: 7.792, cnt: 12.539, size: 4.894
+
+Epoch 70
+Learning rate: 0.000253
+Bleu_1: 0.765153
+Bleu_2: 0.581478
+Bleu_3: 0.432449
+Bleu_4: 0.320454
+ROUGE_L: 0.590111
+METEOR: 0.271485
+CIDEr: 1.057547
+SPICE: 0.201985
+obj: 38.272, attri: 8.924, rela: 6.880, col: 7.289, cnt: 14.314, size: 4.479
+
+Epoch 70
+Learning rate: 0.000253
+Bleu_1: 0.767620
+Bleu_2: 0.585901
+Bleu_3: 0.436339
+Bleu_4: 0.323502
+ROUGE_L: 0.590734
+METEOR: 0.271955
+CIDEr: 1.060190
+SPICE: 0.200764
+obj: 38.042, attri: 8.897, rela: 6.921, col: 7.403, cnt: 12.898, size: 4.521
+
