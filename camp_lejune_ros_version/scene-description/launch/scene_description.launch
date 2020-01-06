@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+	<arg name="name" value="$(optenv ROS_PLATFORM_NAME robot)"/>
+	  <arg name="camera_name" default="center_realsense"/>
+
+	<group ns="$(arg name)">
+		<remap from="image_raw" to="$(arg camera_name)/color/image_raw"/>
+
+		<node pkg="captioner" type="ros_caption.py" name="CMU_captioner" output="screen"/>
+	</group>
+</launch>
