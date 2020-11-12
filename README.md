@@ -13,7 +13,7 @@ Please cite the paper if you use our software:
   author    = {Tian, Junjiao and Oh, Jean},<br>
   booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on
                Artificial Intelligence, {IJCAI-19}},<br>
-  publisher = {International Joint Conferences on Artificial Intelligence Organization}, <br>            
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},         
   pages     = {3576--3584},<br>
   year      = {2019},<br>
   month     = {7},<br>
